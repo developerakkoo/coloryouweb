@@ -1,0 +1,2985 @@
+
+.bg-red-10{background-color:#B71C1C;}
+.bg-red-9{background-color:#C62828; }
+.bg-red-8{background-color:#D32F2F; }
+.bg-red-7{background-color:#E53935; }
+.bg-red-6{background-color: #F44336;}
+.bg-red-5{background-color:#EF5350; }
+.bg-red-4{background-color:#E57373; }
+.bg-red-3{background-color:#EF9A9A; }
+.bg-red-2{background-color:#FFCDD2; }
+.bg-red-1{background-color:#FFEBEE; }
+.bg-red{background-color:#F44336; }
+.bg-red-s1{background-color:#FF8A80; }
+.bg-red-s2{background-color:#FF5252; }
+.bg-red-s3{background-color: #FF1744;}
+.bg-red-s4{background-color: #D50000;}
+
+.bg-pink-10{background-color:#880E4F;}
+.bg-pink-9{background-color:#AD1457; }
+.bg-pink-8{background-color:#C2185B; }
+.bg-pink-7{background-color:#D81B60; }
+.bg-pink-6{background-color:#E91E63; }
+.bg-pink-5{background-color:#EC407A; }
+.bg-pink-4{background-color:#F06292; }
+.bg-pink-3{background-color:#F48FB1; }
+.bg-pink-2{background-color:#F8BBD0; }
+.bg-pink-1{background-color:#FCE4EC; }
+.bg-pink{background-color:#E91E63; }
+.bg-pink-s1{background-color:#FF80AB; }
+.bg-pink-s2{background-color:#FF4081; }
+.bg-pink-s3{background-color:#F50057; }
+.bg-pink-s4{background-color:#C51162; }
+
+.bg-purple-10{background-color:#4A148C;}
+.bg-purple-9{background-color:#6A1B9A; }
+.bg-purple-8{background-color:#7B1FA2; }
+.bg-purple-7{background-color:#8E24AA; }
+.bg-purple-6{background-color:#9C27B0; }
+.bg-purple-5{background-color:#AB47BC; }
+.bg-purple-4{background-color:#BA68C8; }
+.bg-purple-3{background-color:#CE93D8; }
+.bg-purple-2{background-color:#E1BEE7; }
+.bg-purple-1{background-color:#F3E5F5; }
+.bg-purple{background-color: #9C27B0;}
+.bg-purple-s1{background-color:#EA80FC; }
+.bg-purple-s2{background-color:#E040FB; }
+.bg-purple-s3{background-color:#D500F9; }
+.bg-purple-s4{background-color:#AA00FF; }
+
+.bg-deep-purple-10{background-color:#311B92;}
+.bg-deep-purple-9{background-color:#4527A0; }
+.bg-deep-purple-8{background-color:#512DA8; }
+.bg-deep-purple-7{background-color:#5E35B1; }
+.bg-deep-purple-6{background-color:#673AB7; }
+.bg-deep-purple-5{background-color:#7E57C2; }
+.bg-deep-purple-4{background-color:#9575CD; }
+.bg-deep-purple-3{background-color:#B39DDB; }
+.bg-deep-purple-2{background-color:#D1C4E9; }
+.bg-deep-purple-1{background-color:#EDE7F6; }
+.bg-deep-purple{background-color:#673AB7; }
+.bg-deep-purple-s1{background-color:#B388FF; }
+.bg-deep-purple-s2{background-color:#7C4DFF; }
+.bg-deep-purple-s3{background-color:#651FFF; }
+.bg-deep-purple-s4{background-color:#6200EA; }
+
+.bg-indigo-10{background-color:#1A237E;}
+.bg-indigo-9{background-color:#283593;}
+.bg-indigo-8{background-color:#303F9F;}
+.bg-indigo-7{background-color:#3949AB;}
+.bg-indigo-6{background-color:#3F51B5;}
+.bg-indigo-5{background-color:#5C6BC0;}
+.bg-indigo-4{background-color:#7986CB;}
+.bg-indigo-3{background-color:#9FA8DA;}
+.bg-indigo-2{background-color:#C5CAE9;}
+.bg-indigo-1{background-color:#E8EAF6;}
+.bg-indigo{background-color: #3F51B5;}
+.bg-indigo-s1{background-color:#8C9EFF; }
+.bg-indigo-s2{background-color:#536DFE; }
+.bg-indigo-s3{background-color:#3D5AFE; }
+.bg-indigo-s4{background-color:#304FFE; }
+
+.bg-blue-10{background-color:#0D47A1;}
+.bg-blue-9{background-color:#1565C0; }
+.bg-blue-8{background-color:#1976D2; }
+.bg-blue-7{background-color:#1E88E5; }
+.bg-blue-6{background-color:#2196F3; }
+.bg-blue-5{background-color:#42A5F5; }
+.bg-blue-4{background-color:#64B5F6; }
+.bg-blue-3{background-color:#90CAF9; }
+.bg-blue-2{background-color:#BBDEFB; }
+.bg-blue-1{background-color:#E3F2FD; }
+.bg-blue{background-color:#2196F3; }
+.bg-blue-s1{background-color:#82B1FF; }
+.bg-blue-s2{background-color:#448AFF; }
+.bg-blue-s3{background-color:#2979FF; }
+.bg-blue-s4{background-color:#2962FF; }
+
+.bg-black{background-color:#000000; }
+.bg-white{background-color: #FFFFFF;}
+
+.bg-blue-grey-10{background-color:#263238;}
+.bg-blue-grey-9{background-color:#37474F; }
+.bg-blue-grey-8{background-color:#455A64; }
+.bg-blue-grey-7{background-color:#546E7A; }
+.bg-blue-grey-6{background-color:#607D8B; }
+.bg-blue-grey-5{background-color:#78909C; }
+.bg-blue-grey-4{background-color:#90A4AE; }
+.bg-blue-grey-3{background-color:#B0BEC5; }
+.bg-blue-grey-2{background-color:#CFD8DC; }
+.bg-blue-grey-1{background-color:#ECEFF1; }
+.bg-blue-grey{background-color: #607D8B;}
+
+.bg-grey-10{background-color:#212121;}
+.bg-grey-9{background-color:#424242; }
+.bg-grey-8{background-color:#616161; }
+.bg-grey-7{background-color:#757575; }
+.bg-grey-6{background-color:#9E9E9E; }
+.bg-grey-5{background-color:#BDBDBD; }
+.bg-grey-4{background-color:#E0E0E0; }
+.bg-grey-3{background-color:#EEEEEE; }
+.bg-grey-2{background-color:#F5F5F5; }
+.bg-grey-1{background-color:#FAFAFA; }
+.bg-grey{background-color:#9E9E9E; }
+
+.bg-brown-10{background-color:#3E2723;}
+.bg-brown-9{background-color:#4E342E; }
+.bg-brown-8{background-color:#5D4037; }
+.bg-brown-7{background-color:#6D4C41; }
+.bg-brown-6{background-color:#795548; }
+.bg-brown-5{background-color:#8D6E63; }
+.bg-brown-4{background-color:#A1887F; }
+.bg-brown-3{background-color:#BCAAA4; }
+.bg-brown-2{background-color:#D7CCC8; }
+.bg-brown-1{background-color:#EFEBE9; }
+.bg-brown{background-color:#795548; }
+
+.bg-deep-orange-10{background-color:#BF360C; }
+.bg-deep-orange-9{background-color:#D84315; }
+.bg-deep-orange-8{background-color:#E64A19; }
+.bg-deep-orange-7{background-color:#F4511E; }
+.bg-deep-orange-6{background-color:#FF5722; }
+.bg-deep-orange-5{background-color:#FF7043; }
+.bg-deep-orange-4{background-color:#FF8A65; }
+.bg-deep-orange-3{background-color:#FFAB91; }
+.bg-deep-orange-2{background-color:#FFCCBC; }
+.bg-deep-orange-1{background-color:#FBE9E7; }
+.bg-deep-orange{background-color: #FF5722;}
+.bg-deep-orange-s1{background-color:#FF9E80; }
+.bg-deep-orange-s2{background-color:#FF6E40; }
+.bg-deep-orange-s3{background-color:#FF3D00; }
+.bg-deep-orange-s4{background-color:#DD2C00; }
+
+.bg-light-blue-1{background-color: #E1F5FE ;}
+.bg-light-blue-2{background-color: #B3E5FC;}
+.bg-light-blue-3{background-color: #81D4FA;}
+.bg-light-blue-4{background-color: #4FC3F7;}
+.bg-light-blue-5{background-color: #29B6F6;}
+.bg-light-blue-6{background-color: #03A9F4;}
+.bg-light-blue-7{background-color: #039BE5;}
+.bg-light-blue-8{background-color: #0288D1;}
+.bg-light-blue-9{background-color: #0277BD;}
+.bg-light-blue-10{background-color: #01579B;}
+.bg-light-blue{background-color: #03A9F4;}
+.bg-light-blue-s1{background-color:#80D8FF; }
+.bg-light-blue-s2{background-color:#40C4FF; }
+.bg-light-blue-s3{background-color:#00B0FF; }
+.bg-light-blue-s4{background-color:#0091EA; }
+
+.bg-cyan-1{background-color: #E0F7FA;}
+.bg-cyan-2{background-color: #B2EBF2;}
+.bg-cyan-3{background-color: #80DEEA;}
+.bg-cyan-4{background-color: #4DD0E1;}
+.bg-cyan-5{background-color: #26C6DA;}
+.bg-cyan-6{background-color: #00BCD4;}
+.bg-cyan-7{background-color: #00ACC1;}
+.bg-cyan-8{background-color: #0097A7;}
+.bg-cyan-9{background-color: #00838F;}
+.bg-cyan-10{background-color: #006064;}
+.bg-cyan{background-color: #00BCD4;}
+.bg-cyan-s1{background-color:#84FFFF; }
+.bg-cyan-s2{background-color:#18FFFF; }
+.bg-cyan-s3{background-color:#00E5FF; }
+.bg-cyan-s4{background-color:#00B8D4; }
+
+.bg-teal-1{background-color: #E0F2F1;}
+.bg-teal-2{background-color: #B2DFDB;}
+.bg-teal-3{background-color: #80CBC4;}
+.bg-teal-4{background-color: #4DB6AC;}
+.bg-teal-5{background-color: #26A69A;}
+.bg-teal-6{background-color: #009688;}
+.bg-teal-7{background-color: #00897B;}
+.bg-teal-8{background-color: #00796B;}
+.bg-teal-9{background-color: #00695C;}
+.bg-teal-10{background-color: #004D40;}
+.bg-teal{background-color: #009688;}
+.bg-teal-s1{background-color:#A7FFEB; }
+.bg-teal-s2{background-color:#64FFDA; }
+.bg-teal-s3{background-color:#1DE9B6; }
+.bg-teal-s4{background-color:#00BFA5; }
+
+.bg-green-1{background-color: #E8F5E9;}
+.bg-green-2{background-color: #C8E6C9;}
+.bg-green-3{background-color: #A5D6A7;}
+.bg-green-4{background-color: #81C784;}
+.bg-green-5{background-color: #66BB6A;}
+.bg-green-6{background-color: #4CAF50;}
+.bg-green-7{background-color: #43A047;}
+.bg-green-8{background-color: #388E3C;}
+.bg-green-9{background-color: #2E7D32;}
+.bg-green-10{background-color: #1B5E20;}
+.bg-green{background-color: #4CAF50;}
+.bg-green-s1{background-color:#B9F6CA; }
+.bg-green-s2{background-color:#69F0AE; }
+.bg-green-s3{background-color:#00E676; }
+.bg-green-s4{background-color:#00C853; }
+
+.bg-light-green-1{background-color: #F1F8E9;}
+.bg-light-green-2{background-color: #DCEDC8;}
+.bg-light-green-3{background-color: #C5E1A5;}
+.bg-light-green-4{background-color: #AED581;}
+.bg-light-green-5{background-color: #9CCC65;}
+.bg-light-green-6{background-color: #8BC34A;}
+.bg-light-green-7{background-color: #7CB342;}
+.bg-light-green-8{background-color: #689F38;}
+.bg-light-green-9{background-color: #558B2F;}
+.bg-light-green-10{background-color: #33691E;}
+.bg-light-green{background-color: #8BC34A;}
+.bg-light-green-s1{background-color:#CCFF90; }
+.bg-light-green-s2{background-color:#B2FF59; }
+.bg-light-green-s3{background-color:#76FF03; }
+.bg-light-green-s4{background-color:#64DD17; }
+
+.bg-lime-1{background-color: #F9FBE7;}
+.bg-lime-2{background-color:#F0F4C3;}
+.bg-lime-3{background-color: #E6EE9C;}
+.bg-lime-4{background-color: #DCE775;}
+.bg-lime-5{background-color: #D4E157;}
+.bg-lime-6{background-color: #CDDC39;}
+.bg-lime-7{background-color: #C0CA33;}
+.bg-lime-8{background-color: #AFB42B;}
+.bg-lime-9{background-color: #9E9D24;}
+.bg-lime-10{background-color: #827717;}
+.bg-lime{background-color: #CDDC39;}
+.bg-lime-s1{background-color:#F4FF81; }
+.bg-lime-s2{background-color:#EEFF41; }
+.bg-lime-s3{background-color:#C6FF00; }
+.bg-lime-s4{background-color:#AEEA00; }
+
+.bg-yellow-1{background-color: #FFFDE7;}
+.bg-yellow-2{background-color: #FFF9C4;}
+.bg-yellow-3{background-color: #FFF59D;}
+.bg-yellow-4{background-color: #FFF176;}
+.bg-yellow-5{background-color: #FFEE58;}
+.bg-yellow-6{background-color: #FFEB3B;}
+.bg-yellow-7{background-color: #FDD835;}
+.bg-yellow-8{background-color: #FBC02D;}
+.bg-yellow-9{background-color: #F9A825;}
+.bg-yellow-10{background-color: #F57F17;}
+.bg-yellow{background-color: #FFEB3B;}
+.bg-yellow-s1{background-color:#FFFF8D; }
+.bg-yellow-s2{background-color:#FFFF00; }
+.bg-yellow-s3{background-color:#FFEA00; }
+.bg-yellow-s4{background-color:#FFD600; }
+
+.bg-amber-1{background-color: #FFF8E1;}
+.bg-amber-2{background-color: #FFECB3;}
+.bg-amber-3{background-color: #FFE082;}
+.bg-amber-4{background-color: #FFD54F;}
+.bg-amber-5{background-color: #FFCA28;}
+.bg-amber-6{background-color: #FFC107;}
+.bg-amber-7{background-color: #FFB300;}
+.bg-amber-8{background-color: #FFA000;}
+.bg-amber-9{background-color: #FF8F00;}
+.bg-amber-10{background-color: #FF6F00;}
+.bg-amber{background-color: #FFC107;}
+.bg-amber-s1{background-color:#FFE57F; }
+.bg-amber-s2{background-color:#FFD740; }
+.bg-amber-s3{background-color:#FFC400; }
+.bg-amber-s4{background-color:#FFAB00; }
+
+.bg-orange-1{background-color: #FFF3E0;}
+.bg-orange-2{background-color: #FFE0B2;}
+.bg-orange-3{background-color: #FFCC80;}
+.bg-orange-4{background-color: #FFB74D;}
+.bg-orange-5{background-color: #FFA726;}
+.bg-orange-6{background-color: #FF9800;}
+.bg-orange-7{background-color: #FB8C00;}
+.bg-orange-8{background-color: #F57C00;}
+.bg-orange-9{background-color: #EF6C00;}
+.bg-orange-10{background-color: #E65100;}
+.bg-orange{background-color: #FF9800;}
+.bg-orange-s1{background-color:#FFD180; }
+.bg-orange-s2{background-color:#FFAB40; }
+.bg-orange-s3{background-color:#FF9100; }
+.bg-orange-s4{background-color:#FF6D00; }
+
+.text-red-10{background-color:#B71C1C;}
+.text-red-9{background-color:#C62828; }
+.text-red-8{background-color:#D32F2F; }
+.text-red-7{background-color:#E53935; }
+.text-red-6{background-color: #F44336;}
+.text-red-5{background-color:#EF5350; }
+.text-red-4{background-color:#E57373; }
+.text-red-3{background-color:#EF9A9A; }
+.text-red-2{background-color:#FFCDD2; }
+.text-red-1{background-color:#FFEBEE; }
+.text-red{background-color:#F44336; }
+.text-red-s1{background-color:#FF8A80; }
+.text-red-s2{background-color:#FF5252; }
+.text-red-s3{background-color: #FF1744;}
+.text-red-s4{background-color: #D50000;}
+
+.text-pink-10{background-color:#880E4F;}
+.text-pink-9{background-color:#AD1457; }
+.text-pink-8{background-color:#C2185B; }
+.text-pink-7{background-color:#D81B60; }
+.text-pink-6{background-color:#E91E63; }
+.text-pink-5{background-color:#EC407A; }
+.text-pink-4{background-color:#F06292; }
+.text-pink-3{background-color:#F48FB1; }
+.text-pink-2{background-color:#F8BBD0; }
+.text-pink-1{background-color:#FCE4EC; }
+.text-pink{background-color:#E91E63; }
+.text-pink-s1{background-color:#FF80AB; }
+.text-pink-s2{background-color:#FF4081; }
+.text-pink-s3{background-color:#F50057; }
+.text-pink-s4{background-color:#C51162; }
+
+.text-purple-10{background-color:#4A148C;}
+.text-purple-9{background-color:#6A1B9A; }
+.text-purple-8{background-color:#7B1FA2; }
+.text-purple-7{background-color:#8E24AA; }
+.text-purple-6{background-color:#9C27B0; }
+.text-purple-5{background-color:#AB47BC; }
+.text-purple-4{background-color:#BA68C8; }
+.text-purple-3{background-color:#CE93D8; }
+.text-purple-2{background-color:#E1BEE7; }
+.text-purple-1{background-color:#F3E5F5; }
+.text-purple{background-color: #9C27B0;}
+.text-purple-s1{background-color:#EA80FC; }
+.text-purple-s2{background-color:#E040FB; }
+.text-purple-s3{background-color:#D500F9; }
+.text-purple-s4{background-color:#AA00FF; }
+
+.text-deep-purple-10{background-color:#311B92;}
+.text-deep-purple-9{background-color:#4527A0; }
+.text-deep-purple-8{background-color:#512DA8; }
+.text-deep-purple-7{background-color:#5E35B1; }
+.text-deep-purple-6{background-color:#673AB7; }
+.text-deep-purple-5{background-color:#7E57C2; }
+.text-deep-purple-4{background-color:#9575CD; }
+.text-deep-purple-3{background-color:#B39DDB; }
+.text-deep-purple-2{background-color:#D1C4E9; }
+.text-deep-purple-1{background-color:#EDE7F6; }
+.text-deep-purple{background-color:#673AB7; }
+.text-deep-purple-s1{background-color:#B388FF; }
+.text-deep-purple-s2{background-color:#7C4DFF; }
+.text-deep-purple-s3{background-color:#651FFF; }
+.text-deep-purple-s4{background-color:#6200EA; }
+
+.text-indigo-10{background-color:#1A237E;}
+.text-indigo-9{background-color:#283593;}
+.text-indigo-8{background-color:#303F9F;}
+.text-indigo-7{background-color:#3949AB;}
+.text-indigo-6{background-color:#3F51B5;}
+.text-indigo-5{background-color:#5C6BC0;}
+.text-indigo-4{background-color:#7986CB;}
+.text-indigo-3{background-color:#9FA8DA;}
+.text-indigo-2{background-color:#C5CAE9;}
+.text-indigo-1{background-color:#E8EAF6;}
+.text-indigo{background-color: #3F51B5;}
+.text-indigo-s1{background-color:#8C9EFF; }
+.text-indigo-s2{background-color:#536DFE; }
+.text-indigo-s3{background-color:#3D5AFE; }
+.text-indigo-s4{background-color:#304FFE; }
+
+.text-blue-10{background-color:#0D47A1;}
+.text-blue-9{background-color:#1565C0; }
+.text-blue-8{background-color:#1976D2; }
+.text-blue-7{background-color:#1E88E5; }
+.text-blue-6{background-color:#2196F3; }
+.text-blue-5{background-color:#42A5F5; }
+.text-blue-4{background-color:#64B5F6; }
+.text-blue-3{background-color:#90CAF9; }
+.text-blue-2{background-color:#BBDEFB; }
+.text-blue-1{background-color:#E3F2FD; }
+.text-blue{background-color:#2196F3; }
+.text-blue-s1{background-color:#82B1FF; }
+.text-blue-s2{background-color:#448AFF; }
+.text-blue-s3{background-color:#2979FF; }
+.text-blue-s4{background-color:#2962FF; }
+
+.text-black{background-color:#000000; }
+.text-white{background-color: #FFFFFF;}
+
+
+.text-blue-grey-10{background-color:#263238;}
+.text-blue-grey-9{background-color:#37474F; }
+.text-blue-grey-8{background-color:#455A64; }
+.text-blue-grey-7{background-color:#546E7A; }
+.text-blue-grey-6{background-color:#607D8B; }
+.text-blue-grey-5{background-color:#78909C; }
+.text-blue-grey-4{background-color:#90A4AE; }
+.text-blue-grey-3{background-color:#B0BEC5; }
+.text-blue-grey-2{background-color:#CFD8DC; }
+.text-blue-grey-1{background-color:#ECEFF1; }
+.text-blue-grey{background-color: #607D8B;}
+
+
+.text-grey-10{background-color:#212121;}
+.text-grey-9{background-color:#424242; }
+.text-grey-8{background-color:#616161; }
+.text-grey-7{background-color:#757575; }
+.text-grey-6{background-color:#9E9E9E; }
+.text-grey-5{background-color:#BDBDBD; }
+.text-grey-4{background-color:#E0E0E0; }
+.text-grey-3{background-color:#EEEEEE; }
+.text-grey-2{background-color:#F5F5F5; }
+.text-grey-1{background-color:#FAFAFA; }
+.text-grey{background-color:#9E9E9E; }
+
+
+.text-brown-10{background-color:#3E2723;}
+.text-brown-9{background-color:#4E342E; }
+.text-brown-8{background-color:#5D4037; }
+.text-brown-7{background-color:#6D4C41; }
+.text-brown-6{background-color:#795548; }
+.text-brown-5{background-color:#8D6E63; }
+.text-brown-4{background-color:#A1887F; }
+.text-brown-3{background-color:#BCAAA4; }
+.text-brown-2{background-color:#D7CCC8; }
+.text-brown-1{background-color:#EFEBE9; }
+.text-brown{background-color:#795548; }
+
+.text-deep-orange-10{background-color:#BF360C; }
+.text-deep-orange-9{background-color:#D84315; }
+.text-deep-orange-8{background-color:#E64A19; }
+.text-deep-orange-7{background-color:#F4511E; }
+.text-deep-orange-6{background-color:#FF5722; }
+.text-deep-orange-5{background-color:#FF7043; }
+.text-deep-orange-4{background-color:#FF8A65; }
+.text-deep-orange-3{background-color:#FFAB91; }
+.text-deep-orange-2{background-color:#FFCCBC; }
+.text-deep-orange-1{background-color:#FBE9E7; }
+.text-deep-orange{background-color: #FF5722;}
+.text-deep-orange-s1{background-color:#FF9E80; }
+.text-deep-orange-s2{background-color:#FF6E40; }
+.text-deep-orange-s3{background-color:#FF3D00; }
+.text-deep-orange-s4{background-color:#DD2C00; }
+
+.text-light-blue-1{background-color: #E1F5FE ;}
+.text-light-blue-2{background-color: #B3E5FC;}
+.text-light-blue-3{background-color: #81D4FA;}
+.text-light-blue-4{background-color: #4FC3F7;}
+.text-light-blue-5{background-color: #29B6F6;}
+.text-light-blue-6{background-color: #03A9F4;}
+.text-light-blue-7{background-color: #039BE5;}
+.text-light-blue-8{background-color: #0288D1;}
+.text-light-blue-9{background-color: #0277BD;}
+.text-light-blue-10{background-color: #01579B;}
+.text-light-blue{background-color: #03A9F4;}
+.text-light-blue-s1{background-color:#80D8FF; }
+.text-light-blue-s2{background-color:#40C4FF; }
+.text-light-blue-s3{background-color:#00B0FF; }
+.text-light-blue-s4{background-color:#0091EA; }
+
+.text-cyan-1{background-color: #E0F7FA;}
+.text-cyan-2{background-color: #B2EBF2;}
+.text-cyan-3{background-color: #80DEEA;}
+.text-cyan-4{background-color: #4DD0E1;}
+.text-cyan-5{background-color: #26C6DA;}
+.text-cyan-6{background-color: #00BCD4;}
+.text-cyan-7{background-color: #00ACC1;}
+.text-cyan-8{background-color: #0097A7;}
+.text-cyan-9{background-color: #00838F;}
+.text-cyan-10{background-color: #006064;}
+.text-cyan{background-color: #00BCD4;}
+.text-cyan-s1{background-color:#84FFFF; }
+.text-cyan-s2{background-color:#18FFFF; }
+.text-cyan-s3{background-color:#00E5FF; }
+.text-cyan-s4{background-color:#00B8D4; }
+
+.text-teal-1{background-color: #E0F2F1;}
+.text-teal-2{background-color: #B2DFDB;}
+.text-teal-3{background-color: #80CBC4;}
+.text-teal-4{background-color: #4DB6AC;}
+.text-teal-5{background-color: #26A69A;}
+.text-teal-6{background-color: #009688;}
+.text-teal-7{background-color: #00897B;}
+.text-teal-8{background-color: #00796B;}
+.text-teal-9{background-color: #00695C;}
+.text-teal-10{background-color: #004D40;}
+.text-teal{background-color: #009688;}
+.text-teal-s1{background-color:#A7FFEB; }
+.text-teal-s2{background-color:#64FFDA; }
+.text-teal-s3{background-color:#1DE9B6; }
+.text-teal-s4{background-color:#00BFA5; }
+
+.text-green-1{background-color: #E8F5E9;}
+.text-green-2{background-color: #C8E6C9;}
+.text-green-3{background-color: #A5D6A7;}
+.text-green-4{background-color: #81C784;}
+.text-green-5{background-color: #66BB6A;}
+.text-green-6{background-color: #4CAF50;}
+.text-green-7{background-color: #43A047;}
+.text-green-8{background-color: #388E3C;}
+.text-green-9{background-color: #2E7D32;}
+.text-green-10{background-color: #1B5E20;}
+.text-green{background-color: #4CAF50;}
+.text-green-s1{background-color:#B9F6CA; }
+.text-green-s2{background-color:#69F0AE; }
+.text-green-s3{background-color:#00E676; }
+.text-green-s4{background-color:#00C853; }
+
+.text-light-green-1{background-color: #F1F8E9;}
+.text-light-green-2{background-color: #DCEDC8;}
+.text-light-green-3{background-color: #C5E1A5;}
+.text-light-green-4{background-color: #AED581;}
+.text-light-green-5{background-color: #9CCC65;}
+.text-light-green-6{background-color: #8BC34A;}
+.text-light-green-7{background-color: #7CB342;}
+.text-light-green-8{background-color: #689F38;}
+.text-light-green-9{background-color: #558B2F;}
+.text-light-green-10{background-color: #33691E;}
+.text-light-green{background-color: #8BC34A;}
+.text-light-green-s1{background-color:#CCFF90; }
+.text-light-green-s2{background-color:#B2FF59; }
+.text-light-green-s3{background-color:#76FF03; }
+.text-light-green-s4{background-color:#64DD17; }
+
+.text-lime-1{background-color: #F9FBE7;}
+.text-lime-2{background-color:#F0F4C3;}
+.text-lime-3{background-color: #E6EE9C;}
+.text-lime-4{background-color: #DCE775;}
+.text-lime-5{background-color: #D4E157;}
+.text-lime-6{background-color: #CDDC39;}
+.text-lime-7{background-color: #C0CA33;}
+.text-lime-8{background-color: #AFB42B;}
+.text-lime-9{background-color: #9E9D24;}
+.text-lime-10{background-color: #827717;}
+.text-lime{background-color: #CDDC39;}
+.text-lime-s1{background-color:#F4FF81; }
+.text-lime-s2{background-color:#EEFF41; }
+.text-lime-s3{background-color:#C6FF00; }
+.text-lime-s4{background-color:#AEEA00; }
+
+.text-yellow-1{background-color: #FFFDE7;}
+.text-yellow-2{background-color: #FFF9C4;}
+.text-yellow-3{background-color: #FFF59D;}
+.text-yellow-4{background-color: #FFF176;}
+.text-yellow-5{background-color: #FFEE58;}
+.text-yellow-6{background-color: #FFEB3B;}
+.text-yellow-7{background-color: #FDD835;}
+.text-yellow-8{background-color: #FBC02D;}
+.text-yellow-9{background-color: #F9A825;}
+.text-yellow-10{background-color: #F57F17;}
+.text-yellow{background-color: #FFEB3B;}
+.text-yellow-s1{background-color:#FFFF8D; }
+.text-yellow-s2{background-color:#FFFF00; }
+.text-yellow-s3{background-color:#FFEA00; }
+.text-yellow-s4{background-color:#FFD600; }
+
+.text-amber-1{background-color: #FFF8E1;}
+.text-amber-2{background-color: #FFECB3;}
+.text-amber-3{background-color: #FFE082;}
+.text-amber-4{background-color: #FFD54F;}
+.text-amber-5{background-color: #FFCA28;}
+.text-amber-6{background-color: #FFC107;}
+.text-amber-7{background-color: #FFB300;}
+.text-amber-8{background-color: #FFA000;}
+.text-amber-9{background-color: #FF8F00;}
+.text-amber-10{background-color: #FF6F00;}
+.text-amber{background-color: #FFC107;}
+.text-amber-s1{background-color:#FFE57F; }
+.text-amber-s2{background-color:#FFD740; }
+.text-amber-s3{background-color:#FFC400; }
+.text-amber-s4{background-color:#FFAB00; }
+
+
+.text-orange-1{background-color: #FFF3E0;}
+.text-orange-2{background-color: #FFE0B2;}
+.text-orange-3{background-color: #FFCC80;}
+.text-orange-4{background-color: #FFB74D;}
+.text-orange-5{background-color: #FFA726;}
+.text-orange-6{background-color: #FF9800;}
+.text-orange-7{background-color: #FB8C00;}
+.text-orange-8{background-color: #F57C00;}
+.text-orange-9{background-color: #EF6C00;}
+.text-orange-10{background-color: #E65100;}
+.text-orange{background-color: #FF9800;}
+.text-orange-s1{background-color:#FFD180; }
+.text-orange-s2{background-color:#FFAB40; }
+.text-orange-s3{background-color:#FF9100; }
+.text-orange-s4{background-color:#FF6D00; }
+
+.border-red-10{border:2px solid #B71C1C;}
+.border-red-9{border: 2px solid #C62828; }
+.border-red-8{border: 2px solid #D32F2F; }
+.border-red-7{border: 2px solid #E53935; }
+.border-red-6{border: 2px solid #F44336;}
+.border-red-5{border: 2px solid #EF5350; }
+.border-red-4{border: 2px solid #E57373; }
+.border-red-3{border: 2px solid #EF9A9A; }
+.border-red-2{border: 2px solid #FFCDD2; }
+.border-red-1{border: 2px solid #FFEBEE; }
+.border-red{border: 2px solid #F44336; }
+.border-red-s1{border: 2px solid #FF8A80; }
+.border-red-s2{border: 2px solid #FF5252; }
+.border-red-s3{border: 2px solid #FF1744;}
+.border-red-s4{border: 2px solid #D50000;}
+
+.border-pink-10{border: 2px solid #880E4F;}
+.border-pink-9{border: 2px solid #AD1457; }
+.border-pink-8{border: 2px solid #C2185B; }
+.border-pink-7{border: 2px solid #D81B60; }
+.border-pink-6{border: 2px solid #E91E63; }
+.border-pink-5{border: 2px solid #EC407A; }
+.border-pink-4{border: 2px solid #F06292; }
+.border-pink-3{border: 2px solid #F48FB1; }
+.border-pink-2{border: 2px solid #F8BBD0; }
+.border-pink-1{border: 2px solid #FCE4EC; }
+.border-pink{border: 2px solid #E91E63; }
+.border-pink-s1{border: 2px solid #FF80AB; }
+.border-pink-s2{border: 2px solid #FF4081; }
+.border-pink-s3{border: 2px solid #F50057; }
+.border-pink-s4{border: 2px solid #C51162; }
+
+.border-purple-10{border: 2px solid #4A148C;}
+.border-purple-9{border: 2px solid #6A1B9A; }
+.border-purple-8{border: 2px solid #7B1FA2; }
+.border-purple-7{border: 2px solid #8E24AA; }
+.border-purple-6{border: 2px solid #9C27B0; }
+.border-purple-5{border: 2px solid #AB47BC; }
+.border-purple-4{border: 2px solid #BA68C8; }
+.border-purple-3{border: 2px solid #CE93D8; }
+.border-purple-2{border: 2px solid #E1BEE7; }
+.border-purple-1{border: 2px solid #F3E5F5; }
+.border-purple{border: 2px solid #9C27B0;}
+.border-purple-s1{border: 2px solid #EA80FC; }
+.border-purple-s2{border: 2px solid #E040FB; }
+.border-purple-s3{border: 2px solid #D500F9; }
+.border-purple-s4{border: 2px solid #AA00FF; }
+
+.border-deep-purple-10{border: 2px solid #311B92;}
+.border-deep-purple-9{border: 2px solid #4527A0; }
+.border-deep-purple-8{border: 2px solid #512DA8; }
+.border-deep-purple-7{border: 2px solid #5E35B1; }
+.border-deep-purple-6{border: 2px solid #673AB7; }
+.border-deep-purple-5{border: 2px solid #7E57C2; }
+.border-deep-purple-4{border: 2px solid #9575CD; }
+.border-deep-purple-3{border: 2px solid #B39DDB; }
+.border-deep-purple-2{border: 2px solid #D1C4E9; }
+.border-deep-purple-1{border: 2px solid #EDE7F6; }
+.border-deep-purple{border: 2px solid #673AB7; }
+.border-deep-purple-s1{border: 2px solid #B388FF; }
+.border-deep-purple-s2{border: 2px solid #7C4DFF; }
+.border-deep-purple-s3{border: 2px solid #651FFF; }
+.border-deep-purple-s4{border: 2px solid #6200EA; }
+
+.border-indigo-10{border: 2px solid #1A237E;}
+.border-indigo-9{border: 2px solid #283593;}
+.border-indigo-8{border: 2px solid #303F9F;}
+.border-indigo-7{border: 2px solid #3949AB;}
+.border-indigo-6{border: 2px solid #3F51B5;}
+.border-indigo-5{border: 2px solid #5C6BC0;}
+.border-indigo-4{border: 2px solid #7986CB;}
+.border-indigo-3{border: 2px solid #9FA8DA;}
+.border-indigo-2{border: 2px solid #C5CAE9;}
+.border-indigo-1{border: 2px solid #E8EAF6;}
+.border-indigo{border: 2px solid #3F51B5;}
+.border-indigo-s1{border: 2px solid #8C9EFF; }
+.border-indigo-s2{border: 2px solid #536DFE; }
+.border-indigo-s3{border: 2px solid #3D5AFE; }
+.border-indigo-s4{border: 2px solid #304FFE; }
+
+.border-blue-10{border: 2px solid #0D47A1;}
+.border-blue-9{border: 2px solid #1565C0; }
+.border-blue-8{border: 2px solid #1976D2; }
+.border-blue-7{border: 2px solid #1E88E5; }
+.border-blue-6{border: 2px solid #2196F3; }
+.border-blue-5{border: 2px solid #42A5F5; }
+.border-blue-4{border: 2px solid #64B5F6; }
+.border-blue-3{border: 2px solid #90CAF9; }
+.border-blue-2{border: 2px solid #BBDEFB; }
+.border-blue-1{border: 2px solid #E3F2FD; }
+.border-blue{border: 2px solid #2196F3; }
+.border-blue-s1{border: 2px solid #82B1FF; }
+.border-blue-s2{border: 2px solid #448AFF; }
+.border-blue-s3{border: 2px solid #2979FF; }
+.border-blue-s4{border: 2px solid #2962FF; }
+
+.border-black{border: 2px solid #000000; }
+.border-white{border: 2px solid #FFFFFF;}
+
+
+.border-blue-grey-10{border: 2px solid #263238;}
+.border-blue-grey-9{border: 2px solid #37474F; }
+.border-blue-grey-8{border: 2px solid #455A64; }
+.border-blue-grey-7{border: 2px solid #546E7A; }
+.border-blue-grey-6{border: 2px solid #607D8B; }
+.border-blue-grey-5{border: 2px solid #78909C; }
+.border-blue-grey-4{border: 2px solid #90A4AE; }
+.border-blue-grey-3{border: 2px solid #B0BEC5; }
+.border-blue-grey-2{border: 2px solid #CFD8DC; }
+.border-blue-grey-1{border: 2px solid #ECEFF1; }
+.border-blue-grey{border: 2px solid #607D8B;}
+
+
+.border-grey-10{border: 2px solid #212121;}
+.border-grey-9{border: 2px solid #424242; }
+.border-grey-8{border: 2px solid #616161; }
+.border-grey-7{border: 2px solid #757575; }
+.border-grey-6{border: 2px solid #9E9E9E; }
+.border-grey-5{border: 2px solid #BDBDBD; }
+.border-grey-4{border: 2px solid #E0E0E0; }
+.border-grey-3{border: 2px solid #EEEEEE; }
+.border-grey-2{border: 2px solid #F5F5F5; }
+.border-grey-1{border: 2px solid #FAFAFA; }
+.border-grey{border: 2px solid #9E9E9E; }
+
+
+.border-brown-10{border: 2px solid #3E2723;}
+.border-brown-9{border: 2px solid #4E342E; }
+.border-brown-8{border: 2px solid #5D4037; }
+.border-brown-7{border: 2px solid #6D4C41; }
+.border-brown-6{border: 2px solid #795548; }
+.border-brown-5{border: 2px solid #8D6E63; }
+.border-brown-4{border: 2px solid #A1887F; }
+.border-brown-3{border: 2px solid #BCAAA4; }
+.border-brown-2{border: 2px solid #D7CCC8; }
+.border-brown-1{border: 2px solid #EFEBE9; }
+.border-brown{border: 2px solid #795548; }
+
+.border-deep-orange-10{border: 2px solid #BF360C; }
+.border-deep-orange-9{border: 2px solid #D84315; }
+.border-deep-orange-8{border: 2px solid #E64A19; }
+.border-deep-orange-7{border: 2px solid #F4511E; }
+.border-deep-orange-6{border: 2px solid #FF5722; }
+.border-deep-orange-5{border: 2px solid #FF7043; }
+.border-deep-orange-4{border: 2px solid #FF8A65; }
+.border-deep-orange-3{border: 2px solid #FFAB91; }
+.border-deep-orange-2{border: 2px solid #FFCCBC; }
+.border-deep-orange-1{border: 2px solid #FBE9E7; }
+.border-deep-orange{border: 2px solid #FF5722;}
+.border-deep-orange-s1{border: 2px solid #FF9E80; }
+.border-deep-orange-s2{border: 2px solid #FF6E40; }
+.border-deep-orange-s3{border: 2px solid #FF3D00; }
+.border-deep-orange-s4{border: 2px solid #DD2C00; }
+
+.border-light-blue-1{border: 2px solid #E1F5FE ;}
+.border-light-blue-2{border: 2px solid #B3E5FC;}
+.border-light-blue-3{border: 2px solid #81D4FA;}
+.border-light-blue-4{border: 2px solid #4FC3F7;}
+.border-light-blue-5{border: 2px solid #29B6F6;}
+.border-light-blue-6{border: 2px solid #03A9F4;}
+.border-light-blue-7{border: 2px solid #039BE5;}
+.border-light-blue-8{border: 2px solid #0288D1;}
+.border-light-blue-9{border: 2px solid #0277BD;}
+.border-light-blue-10{border: 2px solid #01579B;}
+.border-light-blue{border: 2px solid #03A9F4;}
+.border-light-blue-s1{border: 2px solid #80D8FF; }
+.border-light-blue-s2{border: 2px solid #40C4FF; }
+.border-light-blue-s3{border: 2px solid #00B0FF; }
+.border-light-blue-s4{border: 2px solid #0091EA; }
+
+.border-cyan-1{border: 2px solid #E0F7FA;}
+.border-cyan-2{border: 2px solid #B2EBF2;}
+.border-cyan-3{border: 2px solid #80DEEA;}
+.border-cyan-4{border: 2px solid #4DD0E1;}
+.border-cyan-5{border: 2px solid #26C6DA;}
+.border-cyan-6{border: 2px solid #00BCD4;}
+.border-cyan-7{border: 2px solid #00ACC1;}
+.border-cyan-8{border: 2px solid #0097A7;}
+.border-cyan-9{border: 2px solid #00838F;}
+.border-cyan-10{border: 2px solid #006064;}
+.border-cyan{border: 2px solid #00BCD4;}
+.border-cyan-s1{border: 2px solid #84FFFF; }
+.border-cyan-s2{border: 2px solid #18FFFF; }
+.border-cyan-s3{border: 2px solid #00E5FF; }
+.border-cyan-s4{border: 2px solid #00B8D4; }
+
+.border-teal-1{border: 2px solid #E0F2F1;}
+.border-teal-2{border: 2px solid #B2DFDB;}
+.border-teal-3{border: 2px solid #80CBC4;}
+.border-teal-4{border: 2px solid #4DB6AC;}
+.border-teal-5{border: 2px solid #26A69A;}
+.border-teal-6{border: 2px solid #009688;}
+.border-teal-7{border: 2px solid #00897B;}
+.border-teal-8{border: 2px solid #00796B;}
+.border-teal-9{border: 2px solid #00695C;}
+.border-teal-10{border: 2px solid #004D40;}
+.border-teal{border: 2px solid #009688;}
+.border-teal-s1{border: 2px solid #A7FFEB; }
+.border-teal-s2{border: 2px solid #64FFDA; }
+.border-teal-s3{border: 2px solid #1DE9B6; }
+.border-teal-s4{border: 2px solid #00BFA5; }
+
+.border-green-1{border: 2px solid #E8F5E9;}
+.border-green-2{border: 2px solid #C8E6C9;}
+.border-green-3{border: 2px solid #A5D6A7;}
+.border-green-4{border: 2px solid #81C784;}
+.border-green-5{border: 2px solid #66BB6A;}
+.border-green-6{border: 2px solid #4CAF50;}
+.border-green-7{border: 2px solid #43A047;}
+.border-green-8{border: 2px solid #388E3C;}
+.border-green-9{border: 2px solid #2E7D32;}
+.border-green-10{border: 2px solid #1B5E20;}
+.border-green{border: 2px solid #4CAF50;}
+.border-green-s1{border: 2px solid #B9F6CA; }
+.border-green-s2{border: 2px solid #69F0AE; }
+.border-green-s3{border: 2px solid #00E676; }
+.border-green-s4{border: 2px solid #00C853; }
+
+.border-light-green-1{border: 2px solid #F1F8E9;}
+.border-light-green-2{border: 2px solid #DCEDC8;}
+.border-light-green-3{border: 2px solid #C5E1A5;}
+.border-light-green-4{border: 2px solid #AED581;}
+.border-light-green-5{border: 2px solid #9CCC65;}
+.border-light-green-6{border: 2px solid #8BC34A;}
+.border-light-green-7{border: 2px solid #7CB342;}
+.border-light-green-8{border: 2px solid #689F38;}
+.border-light-green-9{border: 2px solid #558B2F;}
+.border-light-green-10{border: 2px solid #33691E;}
+.border-light-green{border: 2px solid #8BC34A;}
+.border-light-green-s1{border: 2px solid #CCFF90; }
+.border-light-green-s2{border: 2px solid #B2FF59; }
+.border-light-green-s3{border: 2px solid #76FF03; }
+.border-light-green-s4{border: 2px solid #64DD17; }
+
+.border-lime-1{border: 2px solid #F9FBE7;}
+.border-lime-2{border: 2px solid #F0F4C3;}
+.border-lime-3{border: 2px solid #E6EE9C;}
+.border-lime-4{border: 2px solid #DCE775;}
+.border-lime-5{border: 2px solid #D4E157;}
+.border-lime-6{border: 2px solid #CDDC39;}
+.border-lime-7{border: 2px solid #C0CA33;}
+.border-lime-8{border: 2px solid #AFB42B;}
+.border-lime-9{border: 2px solid #9E9D24;}
+.border-lime-10{border: 2px solid #827717;}
+.border-lime{border: 2px solid #CDDC39;}
+.border-lime-s1{border: 2px solid #F4FF81; }
+.border-lime-s2{border: 2px solid #EEFF41; }
+.border-lime-s3{border: 2px solid #C6FF00; }
+.border-lime-s4{border: 2px solid #AEEA00; }
+
+.border-yellow-1{border: 2px solid #FFFDE7;}
+.border-yellow-2{border: 2px solid #FFF9C4;}
+.border-yellow-3{border: 2px solid #FFF59D;}
+.border-yellow-4{border: 2px solid #FFF176;}
+.border-yellow-5{border: 2px solid #FFEE58;}
+.border-yellow-6{border: 2px solid #FFEB3B;}
+.border-yellow-7{border: 2px solid #FDD835;}
+.border-yellow-8{border: 2px solid #FBC02D;}
+.border-yellow-9{border: 2px solid #F9A825;}
+.border-yellow-10{border: 2px solid #F57F17;}
+.border-yellow{border: 2px solid #FFEB3B;}
+.border-yellow-s1{border: 2px solid #FFFF8D; }
+.border-yellow-s2{border: 2px solid #FFFF00; }
+.border-yellow-s3{border: 2px solid #FFEA00; }
+.border-yellow-s4{border: 2px solid #FFD600; }
+
+.border-amber-1{border: 2px solid #FFF8E1;}
+.border-amber-2{border: 2px solid #FFECB3;}
+.border-amber-3{border: 2px solid #FFE082;}
+.border-amber-4{border: 2px solid #FFD54F;}
+.border-amber-5{border: 2px solid #FFCA28;}
+.border-amber-6{border: 2px solid #FFC107;}
+.border-amber-7{border: 2px solid #FFB300;}
+.border-amber-8{border: 2px solid #FFA000;}
+.border-amber-9{border: 2px solid #FF8F00;}
+.border-amber-10{border: 2px solid #FF6F00;}
+.border-amber{border: 2px solid #FFC107;}
+.border-amber-s1{border: 2px solid #FFE57F; }
+.border-amber-s2{border: 2px solid #FFD740; }
+.border-amber-s3{border: 2px solid #FFC400; }
+.border-amber-s4{border: 2px solid #FFAB00; }
+
+
+.border-orange-1{border: 2px solid #FFF3E0;}
+.border-orange-2{border: 2px solid #FFE0B2;}
+.border-orange-3{border: 2px solid #FFCC80;}
+.border-orange-4{border: 2px solid #FFB74D;}
+.border-orange-5{border: 2px solid #FFA726;}
+.border-orange-6{border: 2px solid #FF9800;}
+.border-orange-7{border: 2px solid #FB8C00;}
+.border-orange-8{border: 2px solid #F57C00;}
+.border-orange-9{border: 2px solid #EF6C00;}
+.border-orange-10{border: 2px solid #E65100;}
+.border-orange{border: 2px solid #FF9800;}
+.border-orange-s1{border: 2px solid #FFD180; }
+.border-orange-s2{border: 2px solid #FFAB40; }
+.border-orange-s3{border: 2px solid #FF9100; }
+.border-orange-s4{border: 2px solid #FF6D00; }
+
+.border-outset-red-10{border:2px outset #B71C1C;}
+.border-outset-red-9{border: 2px outset #C62828; }
+.border-outset-red-8{border: 2px outset #D32F2F; }
+.border-outset-red-7{border: 2px outset #E53935; }
+.border-outset-red-6{border: 2px outset #F44336;}
+.border-outset-red-5{border: 2px outset #EF5350; }
+.border-outset-red-4{border: 2px outset #E57373; }
+.border-outset-red-3{border: 2px outset #EF9A9A; }
+.border-outset-red-2{border: 2px outset #FFCDD2; }
+.border-outset-red-1{border: 2px outset #FFEBEE; }
+.border-outset-red{border: 2px outset #F44336; }
+.border-outset-red-s1{border: 2px outset #FF8A80; }
+.border-outset-red-s2{border: 2px outset #FF5252; }
+.border-outset-red-s3{border: 2px outset #FF1744;}
+.border-outset-red-s4{border: 2px outset #D50000;}
+
+.border-outset-pink-10{border: 2px outset #880E4F;}
+.border-outset-pink-9{border: 2px outset #AD1457; }
+.border-outset-pink-8{border: 2px outset #C2185B; }
+.border-outset-pink-7{border: 2px outset #D81B60; }
+.border-outset-pink-6{border: 2px outset #E91E63; }
+.border-outset-pink-5{border: 2px outset #EC407A; }
+.border-outset-pink-4{border: 2px outset #F06292; }
+.border-outset-pink-3{border: 2px outset #F48FB1; }
+.border-outset-pink-2{border: 2px outset #F8BBD0; }
+.border-outset-pink-1{border: 2px outset #FCE4EC; }
+.border-outset-pink{border: 2px outset #E91E63; }
+.border-outset-pink-s1{border: 2px outset #FF80AB; }
+.border-outset-pink-s2{border: 2px outset #FF4081; }
+.border-outset-pink-s3{border: 2px outset #F50057; }
+.border-outset-pink-s4{border: 2px outset #C51162; }
+
+.border-outset-purple-10{border: 2px outset #4A148C;}
+.border-outset-purple-9{border: 2px outset #6A1B9A; }
+.border-outset-purple-8{border: 2px outset #7B1FA2; }
+.border-outset-purple-7{border: 2px outset #8E24AA; }
+.border-outset-purple-6{border: 2px outset #9C27B0; }
+.border-outset-purple-5{border: 2px outset #AB47BC; }
+.border-outset-purple-4{border: 2px outset #BA68C8; }
+.border-outset-purple-3{border: 2px outset #CE93D8; }
+.border-outset-purple-2{border: 2px outset #E1BEE7; }
+.border-outset-purple-1{border: 2px outset #F3E5F5; }
+.border-outset-purple{border: 2px outset #9C27B0;}
+.border-outset-purple-s1{border: 2px outset #EA80FC; }
+.border-outset-purple-s2{border: 2px outset #E040FB; }
+.border-outset-purple-s3{border: 2px outset #D500F9; }
+.border-outset-purple-s4{border: 2px outset #AA00FF; }
+
+.border-outset-deep-purple-10{border: 2px outset #311B92;}
+.border-outset-deep-purple-9{border: 2px outset #4527A0; }
+.border-outset-deep-purple-8{border: 2px outset #512DA8; }
+.border-outset-deep-purple-7{border: 2px outset #5E35B1; }
+.border-outset-deep-purple-6{border: 2px outset #673AB7; }
+.border-outset-deep-purple-5{border: 2px outset #7E57C2; }
+.border-outset-deep-purple-4{border: 2px outset #9575CD; }
+.border-outset-deep-purple-3{border: 2px outset #B39DDB; }
+.border-outset-deep-purple-2{border: 2px outset #D1C4E9; }
+.border-outset-deep-purple-1{border: 2px outset #EDE7F6; }
+.border-outset-deep-purple{border: 2px outset #673AB7; }
+.border-outset-deep-purple-s1{border: 2px outset #B388FF; }
+.border-outset-deep-purple-s2{border: 2px outset #7C4DFF; }
+.border-outset-deep-purple-s3{border: 2px outset #651FFF; }
+.border-outset-deep-purple-s4{border: 2px outset #6200EA; }
+
+.border-outset-indigo-10{border: 2px outset #1A237E;}
+.border-outset-indigo-9{border: 2px outset #283593;}
+.border-outset-indigo-8{border: 2px outset #303F9F;}
+.border-outset-indigo-7{border: 2px outset #3949AB;}
+.border-outset-indigo-6{border: 2px outset #3F51B5;}
+.border-outset-indigo-5{border: 2px outset #5C6BC0;}
+.border-outset-indigo-4{border: 2px outset #7986CB;}
+.border-outset-indigo-3{border: 2px outset #9FA8DA;}
+.border-outset-indigo-2{border: 2px outset #C5CAE9;}
+.border-outset-indigo-1{border: 2px outset #E8EAF6;}
+.border-outset-indigo{border: 2px outset #3F51B5;}
+.border-outset-indigo-s1{border: 2px outset #8C9EFF; }
+.border-outset-indigo-s2{border: 2px outset #536DFE; }
+.border-outset-indigo-s3{border: 2px outset #3D5AFE; }
+.border-outset-indigo-s4{border: 2px outset #304FFE; }
+
+.border-outset-blue-10{border: 2px outset #0D47A1;}
+.border-outset-blue-9{border: 2px outset #1565C0; }
+.border-outset-blue-8{border: 2px outset #1976D2; }
+.border-outset-blue-7{border: 2px outset #1E88E5; }
+.border-outset-blue-6{border: 2px outset #2196F3; }
+.border-outset-blue-5{border: 2px outset #42A5F5; }
+.border-outset-blue-4{border: 2px outset #64B5F6; }
+.border-outset-blue-3{border: 2px outset #90CAF9; }
+.border-outset-blue-2{border: 2px outset #BBDEFB; }
+.border-outset-blue-1{border: 2px outset #E3F2FD; }
+.border-outset-blue{border: 2px outset #2196F3; }
+.border-outset-blue-s1{border: 2px outset #82B1FF; }
+.border-outset-blue-s2{border: 2px outset #448AFF; }
+.border-outset-blue-s3{border: 2px outset #2979FF; }
+.border-outset-blue-s4{border: 2px outset #2962FF; }
+
+.border-outset-black{border: 2px outset #000000; }
+.border-outset-white{border: 2px outset #FFFFFF;}
+
+
+.border-outset-blue-grey-10{border: 2px outset #263238;}
+.border-outset-blue-grey-9{border: 2px outset #37474F; }
+.border-outset-blue-grey-8{border: 2px outset #455A64; }
+.border-outset-blue-grey-7{border: 2px outset #546E7A; }
+.border-outset-blue-grey-6{border: 2px outset #607D8B; }
+.border-outset-blue-grey-5{border: 2px outset #78909C; }
+.border-outset-blue-grey-4{border: 2px outset #90A4AE; }
+.border-outset-blue-grey-3{border: 2px outset #B0BEC5; }
+.border-outset-blue-grey-2{border: 2px outset #CFD8DC; }
+.border-outset-blue-grey-1{border: 2px outset #ECEFF1; }
+.border-outset-blue-grey{border: 2px outset #607D8B;}
+
+
+.border-outset-grey-10{border: 2px outset #212121;}
+.border-outset-grey-9{border: 2px outset #424242; }
+.border-outset-grey-8{border: 2px outset #616161; }
+.border-outset-grey-7{border: 2px outset #757575; }
+.border-outset-grey-6{border: 2px outset #9E9E9E; }
+.border-outset-grey-5{border: 2px outset #BDBDBD; }
+.border-outset-grey-4{border: 2px outset #E0E0E0; }
+.border-outset-grey-3{border: 2px outset #EEEEEE; }
+.border-outset-grey-2{border: 2px outset #F5F5F5; }
+.border-outset-grey-1{border: 2px outset #FAFAFA; }
+.border-outset-grey{border: 2px outset #9E9E9E; }
+
+
+.border-outset-brown-10{border: 2px outset #3E2723;}
+.border-outset-brown-9{border: 2px outset #4E342E; }
+.border-outset-brown-8{border: 2px outset #5D4037; }
+.border-outset-brown-7{border: 2px outset #6D4C41; }
+.border-outset-brown-6{border: 2px outset #795548; }
+.border-outset-brown-5{border: 2px outset #8D6E63; }
+.border-outset-brown-4{border: 2px outset #A1887F; }
+.border-outset-brown-3{border: 2px outset #BCAAA4; }
+.border-outset-brown-2{border: 2px outset #D7CCC8; }
+.border-outset-brown-1{border: 2px outset #EFEBE9; }
+.border-outset-brown{border: 2px outset #795548; }
+
+.border-outset-deep-orange-10{border: 2px outset #BF360C; }
+.border-outset-deep-orange-9{border: 2px outset #D84315; }
+.border-outset-deep-orange-8{border: 2px outset #E64A19; }
+.border-outset-deep-orange-7{border: 2px outset #F4511E; }
+.border-outset-deep-orange-6{border: 2px outset #FF5722; }
+.border-outset-deep-orange-5{border: 2px outset #FF7043; }
+.border-outset-deep-orange-4{border: 2px outset #FF8A65; }
+.border-outset-deep-orange-3{border: 2px outset #FFAB91; }
+.border-outset-deep-orange-2{border: 2px outset #FFCCBC; }
+.border-outset-deep-orange-1{border: 2px outset #FBE9E7; }
+.border-outset-deep-orange{border: 2px outset #FF5722;}
+.border-outset-deep-orange-s1{border: 2px outset #FF9E80; }
+.border-outset-deep-orange-s2{border: 2px outset #FF6E40; }
+.border-outset-deep-orange-s3{border: 2px outset #FF3D00; }
+.border-outset-deep-orange-s4{border: 2px outset #DD2C00; }
+
+.border-outset-light-blue-1{border: 2px outset #E1F5FE ;}
+.border-outset-light-blue-2{border: 2px outset #B3E5FC;}
+.border-outset-light-blue-3{border: 2px outset #81D4FA;}
+.border-outset-light-blue-4{border: 2px outset #4FC3F7;}
+.border-outset-light-blue-5{border: 2px outset #29B6F6;}
+.border-outset-light-blue-6{border: 2px outset #03A9F4;}
+.border-outset-light-blue-7{border: 2px outset #039BE5;}
+.border-outset-light-blue-8{border: 2px outset #0288D1;}
+.border-outset-light-blue-9{border: 2px outset #0277BD;}
+.border-outset-light-blue-10{border: 2px outset #01579B;}
+.border-outset-light-blue{border: 2px outset #03A9F4;}
+.border-outset-light-blue-s1{border: 2px outset #80D8FF; }
+.border-outset-light-blue-s2{border: 2px outset #40C4FF; }
+.border-outset-light-blue-s3{border: 2px outset #00B0FF; }
+.border-outset-light-blue-s4{border: 2px outset #0091EA; }
+
+.border-outset-cyan-1{border: 2px outset #E0F7FA;}
+.border-outset-cyan-2{border: 2px outset #B2EBF2;}
+.border-outset-cyan-3{border: 2px outset #80DEEA;}
+.border-outset-cyan-4{border: 2px outset #4DD0E1;}
+.border-outset-cyan-5{border: 2px outset #26C6DA;}
+.border-outset-cyan-6{border: 2px outset #00BCD4;}
+.border-outset-cyan-7{border: 2px outset #00ACC1;}
+.border-outset-cyan-8{border: 2px outset #0097A7;}
+.border-outset-cyan-9{border: 2px outset #00838F;}
+.border-outset-cyan-10{border: 2px outset #006064;}
+.border-outset-cyan{border: 2px outset #00BCD4;}
+.border-outset-cyan-s1{border: 2px outset #84FFFF; }
+.border-outset-cyan-s2{border: 2px outset #18FFFF; }
+.border-outset-cyan-s3{border: 2px outset #00E5FF; }
+.border-outset-cyan-s4{border: 2px outset #00B8D4; }
+
+.border-outset-teal-1{border: 2px outset #E0F2F1;}
+.border-outset-teal-2{border: 2px outset #B2DFDB;}
+.border-outset-teal-3{border: 2px outset #80CBC4;}
+.border-outset-teal-4{border: 2px outset #4DB6AC;}
+.border-outset-teal-5{border: 2px outset #26A69A;}
+.border-outset-teal-6{border: 2px outset #009688;}
+.border-outset-teal-7{border: 2px outset #00897B;}
+.border-outset-teal-8{border: 2px outset #00796B;}
+.border-outset-teal-9{border: 2px outset #00695C;}
+.border-outset-teal-10{border: 2px outset #004D40;}
+.border-outset-teal{border: 2px outset #009688;}
+.border-outset-teal-s1{border: 2px outset #A7FFEB; }
+.border-outset-teal-s2{border: 2px outset #64FFDA; }
+.border-outset-teal-s3{border: 2px outset #1DE9B6; }
+.border-outset-teal-s4{border: 2px outset #00BFA5; }
+
+.border-outset-green-1{border: 2px outset #E8F5E9;}
+.border-outset-green-2{border: 2px outset #C8E6C9;}
+.border-outset-green-3{border: 2px outset #A5D6A7;}
+.border-outset-green-4{border: 2px outset #81C784;}
+.border-outset-green-5{border: 2px outset #66BB6A;}
+.border-outset-green-6{border: 2px outset #4CAF50;}
+.border-outset-green-7{border: 2px outset #43A047;}
+.border-outset-green-8{border: 2px outset #388E3C;}
+.border-outset-green-9{border: 2px outset #2E7D32;}
+.border-outset-green-10{border: 2px outset #1B5E20;}
+.border-outset-green{border: 2px outset #4CAF50;}
+.border-outset-green-s1{border: 2px outset #B9F6CA; }
+.border-outset-green-s2{border: 2px outset #69F0AE; }
+.border-outset-green-s3{border: 2px outset #00E676; }
+.border-outset-green-s4{border: 2px outset #00C853; }
+
+.border-outset-light-green-1{border: 2px outset #F1F8E9;}
+.border-outset-light-green-2{border: 2px outset #DCEDC8;}
+.border-outset-light-green-3{border: 2px outset #C5E1A5;}
+.border-outset-light-green-4{border: 2px outset #AED581;}
+.border-outset-light-green-5{border: 2px outset #9CCC65;}
+.border-outset-light-green-6{border: 2px outset #8BC34A;}
+.border-outset-light-green-7{border: 2px outset #7CB342;}
+.border-outset-light-green-8{border: 2px outset #689F38;}
+.border-outset-light-green-9{border: 2px outset #558B2F;}
+.border-outset-light-green-10{border: 2px outset #33691E;}
+.border-outset-light-green{border: 2px outset #8BC34A;}
+.border-outset-light-green-s1{border: 2px outset #CCFF90; }
+.border-outset-light-green-s2{border: 2px outset #B2FF59; }
+.border-outset-light-green-s3{border: 2px outset #76FF03; }
+.border-outset-light-green-s4{border: 2px outset #64DD17; }
+
+.border-outset-lime-1{border: 2px outset #F9FBE7;}
+.border-outset-lime-2{border: 2px outset #F0F4C3;}
+.border-outset-lime-3{border: 2px outset #E6EE9C;}
+.border-outset-lime-4{border: 2px outset #DCE775;}
+.border-outset-lime-5{border: 2px outset #D4E157;}
+.border-outset-lime-6{border: 2px outset #CDDC39;}
+.border-outset-lime-7{border: 2px outset #C0CA33;}
+.border-outset-lime-8{border: 2px outset #AFB42B;}
+.border-outset-lime-9{border: 2px outset #9E9D24;}
+.border-outset-lime-10{border: 2px outset #827717;}
+.border-outset-lime{border: 2px outset #CDDC39;}
+.border-outset-lime-s1{border: 2px outset #F4FF81; }
+.border-outset-lime-s2{border: 2px outset #EEFF41; }
+.border-outset-lime-s3{border: 2px outset #C6FF00; }
+.border-outset-lime-s4{border: 2px outset #AEEA00; }
+
+.border-outset-yellow-1{border: 2px outset #FFFDE7;}
+.border-outset-yellow-2{border: 2px outset #FFF9C4;}
+.border-outset-yellow-3{border: 2px outset #FFF59D;}
+.border-outset-yellow-4{border: 2px outset #FFF176;}
+.border-outset-yellow-5{border: 2px outset #FFEE58;}
+.border-outset-yellow-6{border: 2px outset #FFEB3B;}
+.border-outset-yellow-7{border: 2px outset #FDD835;}
+.border-outset-yellow-8{border: 2px outset #FBC02D;}
+.border-outset-yellow-9{border: 2px outset #F9A825;}
+.border-outset-yellow-10{border: 2px outset #F57F17;}
+.border-outset-yellow{border: 2px outset #FFEB3B;}
+.border-outset-yellow-s1{border: 2px outset #FFFF8D; }
+.border-outset-yellow-s2{border: 2px outset #FFFF00; }
+.border-outset-yellow-s3{border: 2px outset #FFEA00; }
+.border-outset-yellow-s4{border: 2px outset #FFD600; }
+
+.border-outset-amber-1{border: 2px outset #FFF8E1;}
+.border-outset-amber-2{border: 2px outset #FFECB3;}
+.border-outset-amber-3{border: 2px outset #FFE082;}
+.border-outset-amber-4{border: 2px outset #FFD54F;}
+.border-outset-amber-5{border: 2px outset #FFCA28;}
+.border-outset-amber-6{border: 2px outset #FFC107;}
+.border-outset-amber-7{border: 2px outset #FFB300;}
+.border-outset-amber-8{border: 2px outset #FFA000;}
+.border-outset-amber-9{border: 2px outset #FF8F00;}
+.border-outset-amber-10{border: 2px outset #FF6F00;}
+.border-outset-amber{border: 2px outset #FFC107;}
+.border-outset-amber-s1{border: 2px outset #FFE57F; }
+.border-outset-amber-s2{border: 2px outset #FFD740; }
+.border-outset-amber-s3{border: 2px outset #FFC400; }
+.border-outset-amber-s4{border: 2px outset #FFAB00; }
+
+
+.border-outset-orange-1{border: 2px outset #FFF3E0;}
+.border-outset-orange-2{border: 2px outset #FFE0B2;}
+.border-outset-orange-3{border: 2px outset #FFCC80;}
+.border-outset-orange-4{border: 2px outset #FFB74D;}
+.border-outset-orange-5{border: 2px outset #FFA726;}
+.border-outset-orange-6{border: 2px outset #FF9800;}
+.border-outset-orange-7{border: 2px outset #FB8C00;}
+.border-outset-orange-8{border: 2px outset #F57C00;}
+.border-outset-orange-9{border: 2px outset #EF6C00;}
+.border-outset-orange-10{border: 2px outset #E65100;}
+.border-outset-orange{border: 2px outset #FF9800;}
+.border-outset-orange-s1{border: 2px outset #FFD180; }
+.border-outset-orange-s2{border: 2px outset #FFAB40; }
+.border-outset-orange-s3{border: 2px outset #FF9100; }
+.border-outset-orange-s4{border: 2px outset #FF6D00; }
+
+.border-inset-red-10{border:2px inset #B71C1C;}
+.border-inset-red-9{border: 2px inset #C62828; }
+.border-inset-red-8{border: 2px inset #D32F2F; }
+.border-inset-red-7{border: 2px inset #E53935; }
+.border-inset-red-6{border: 2px inset #F44336;}
+.border-inset-red-5{border: 2px inset #EF5350; }
+.border-inset-red-4{border: 2px inset #E57373; }
+.border-inset-red-3{border: 2px inset #EF9A9A; }
+.border-inset-red-2{border: 2px inset #FFCDD2; }
+.border-inset-red-1{border: 2px inset #FFEBEE; }
+.border-inset-red{border: 2px inset #F44336; }
+.border-inset-red-s1{border: 2px inset #FF8A80; }
+.border-inset-red-s2{border: 2px inset #FF5252; }
+.border-inset-red-s3{border: 2px inset #FF1744;}
+.border-inset-red-s4{border: 2px inset #D50000;}
+
+.border-inset-pink-10{border: 2px inset #880E4F;}
+.border-inset-pink-9{border: 2px inset #AD1457; }
+.border-inset-pink-8{border: 2px inset #C2185B; }
+.border-inset-pink-7{border: 2px inset #D81B60; }
+.border-inset-pink-6{border: 2px inset #E91E63; }
+.border-inset-pink-5{border: 2px inset #EC407A; }
+.border-inset-pink-4{border: 2px inset #F06292; }
+.border-inset-pink-3{border: 2px inset #F48FB1; }
+.border-inset-pink-2{border: 2px inset #F8BBD0; }
+.border-inset-pink-1{border: 2px inset #FCE4EC; }
+.border-inset-pink{border: 2px inset #E91E63; }
+.border-inset-pink-s1{border: 2px inset #FF80AB; }
+.border-inset-pink-s2{border: 2px inset #FF4081; }
+.border-inset-pink-s3{border: 2px inset #F50057; }
+.border-inset-pink-s4{border: 2px inset #C51162; }
+
+.border-inset-purple-10{border: 2px inset #4A148C;}
+.border-inset-purple-9{border: 2px inset #6A1B9A; }
+.border-inset-purple-8{border: 2px inset #7B1FA2; }
+.border-inset-purple-7{border: 2px inset #8E24AA; }
+.border-inset-purple-6{border: 2px inset #9C27B0; }
+.border-inset-purple-5{border: 2px inset #AB47BC; }
+.border-inset-purple-4{border: 2px inset #BA68C8; }
+.border-inset-purple-3{border: 2px inset #CE93D8; }
+.border-inset-purple-2{border: 2px inset #E1BEE7; }
+.border-inset-purple-1{border: 2px inset #F3E5F5; }
+.border-inset-purple{border: 2px inset #9C27B0;}
+.border-inset-purple-s1{border: 2px inset #EA80FC; }
+.border-inset-purple-s2{border: 2px inset #E040FB; }
+.border-inset-purple-s3{border: 2px inset #D500F9; }
+.border-inset-purple-s4{border: 2px inset #AA00FF; }
+
+.border-inset-deep-purple-10{border: 2px inset #311B92;}
+.border-inset-deep-purple-9{border: 2px inset #4527A0; }
+.border-inset-deep-purple-8{border: 2px inset #512DA8; }
+.border-inset-deep-purple-7{border: 2px inset #5E35B1; }
+.border-inset-deep-purple-6{border: 2px inset #673AB7; }
+.border-inset-deep-purple-5{border: 2px inset #7E57C2; }
+.border-inset-deep-purple-4{border: 2px inset #9575CD; }
+.border-inset-deep-purple-3{border: 2px inset #B39DDB; }
+.border-inset-deep-purple-2{border: 2px inset #D1C4E9; }
+.border-inset-deep-purple-1{border: 2px inset #EDE7F6; }
+.border-inset-deep-purple{border: 2px inset #673AB7; }
+.border-inset-deep-purple-s1{border: 2px inset #B388FF; }
+.border-inset-deep-purple-s2{border: 2px inset #7C4DFF; }
+.border-inset-deep-purple-s3{border: 2px inset #651FFF; }
+.border-inset-deep-purple-s4{border: 2px inset #6200EA; }
+
+.border-inset-indigo-10{border: 2px inset #1A237E;}
+.border-inset-indigo-9{border: 2px inset #283593;}
+.border-inset-indigo-8{border: 2px inset #303F9F;}
+.border-inset-indigo-7{border: 2px inset #3949AB;}
+.border-inset-indigo-6{border: 2px inset #3F51B5;}
+.border-inset-indigo-5{border: 2px inset #5C6BC0;}
+.border-inset-indigo-4{border: 2px inset #7986CB;}
+.border-inset-indigo-3{border: 2px inset #9FA8DA;}
+.border-inset-indigo-2{border: 2px inset #C5CAE9;}
+.border-inset-indigo-1{border: 2px inset #E8EAF6;}
+.border-inset-indigo{border: 2px inset #3F51B5;}
+.border-inset-indigo-s1{border: 2px inset #8C9EFF; }
+.border-inset-indigo-s2{border: 2px inset #536DFE; }
+.border-inset-indigo-s3{border: 2px inset #3D5AFE; }
+.border-inset-indigo-s4{border: 2px inset #304FFE; }
+
+.border-inset-blue-10{border: 2px inset #0D47A1;}
+.border-inset-blue-9{border: 2px inset #1565C0; }
+.border-inset-blue-8{border: 2px inset #1976D2; }
+.border-inset-blue-7{border: 2px inset #1E88E5; }
+.border-inset-blue-6{border: 2px inset #2196F3; }
+.border-inset-blue-5{border: 2px inset #42A5F5; }
+.border-inset-blue-4{border: 2px inset #64B5F6; }
+.border-inset-blue-3{border: 2px inset #90CAF9; }
+.border-inset-blue-2{border: 2px inset #BBDEFB; }
+.border-inset-blue-1{border: 2px inset #E3F2FD; }
+.border-inset-blue{border: 2px inset #2196F3; }
+.border-inset-blue-s1{border: 2px inset #82B1FF; }
+.border-inset-blue-s2{border: 2px inset #448AFF; }
+.border-inset-blue-s3{border: 2px inset #2979FF; }
+.border-inset-blue-s4{border: 2px inset #2962FF; }
+
+.border-inset-black{border: 2px inset #000000; }
+.border-inset-white{border: 2px inset #FFFFFF;}
+
+
+.border-inset-blue-grey-10{border: 2px inset #263238;}
+.border-inset-blue-grey-9{border: 2px inset #37474F; }
+.border-inset-blue-grey-8{border: 2px inset #455A64; }
+.border-inset-blue-grey-7{border: 2px inset #546E7A; }
+.border-inset-blue-grey-6{border: 2px inset #607D8B; }
+.border-inset-blue-grey-5{border: 2px inset #78909C; }
+.border-inset-blue-grey-4{border: 2px inset #90A4AE; }
+.border-inset-blue-grey-3{border: 2px inset #B0BEC5; }
+.border-inset-blue-grey-2{border: 2px inset #CFD8DC; }
+.border-inset-blue-grey-1{border: 2px inset #ECEFF1; }
+.border-inset-blue-grey{border: 2px inset #607D8B;}
+
+
+.border-inset-grey-10{border: 2px inset #212121;}
+.border-inset-grey-9{border: 2px inset #424242; }
+.border-inset-grey-8{border: 2px inset #616161; }
+.border-inset-grey-7{border: 2px inset #757575; }
+.border-inset-grey-6{border: 2px inset #9E9E9E; }
+.border-inset-grey-5{border: 2px inset #BDBDBD; }
+.border-inset-grey-4{border: 2px inset #E0E0E0; }
+.border-inset-grey-3{border: 2px inset #EEEEEE; }
+.border-inset-grey-2{border: 2px inset #F5F5F5; }
+.border-inset-grey-1{border: 2px inset #FAFAFA; }
+.border-inset-grey{border: 2px inset #9E9E9E; }
+
+
+.border-inset-brown-10{border: 2px inset #3E2723;}
+.border-inset-brown-9{border: 2px inset #4E342E; }
+.border-inset-brown-8{border: 2px inset #5D4037; }
+.border-inset-brown-7{border: 2px inset #6D4C41; }
+.border-inset-brown-6{border: 2px inset #795548; }
+.border-inset-brown-5{border: 2px inset #8D6E63; }
+.border-inset-brown-4{border: 2px inset #A1887F; }
+.border-inset-brown-3{border: 2px inset #BCAAA4; }
+.border-inset-brown-2{border: 2px inset #D7CCC8; }
+.border-inset-brown-1{border: 2px inset #EFEBE9; }
+.border-inset-brown{border: 2px inset #795548; }
+
+.border-inset-deep-orange-10{border: 2px inset #BF360C; }
+.border-inset-deep-orange-9{border: 2px inset #D84315; }
+.border-inset-deep-orange-8{border: 2px inset #E64A19; }
+.border-inset-deep-orange-7{border: 2px inset #F4511E; }
+.border-inset-deep-orange-6{border: 2px inset #FF5722; }
+.border-inset-deep-orange-5{border: 2px inset #FF7043; }
+.border-inset-deep-orange-4{border: 2px inset #FF8A65; }
+.border-inset-deep-orange-3{border: 2px inset #FFAB91; }
+.border-inset-deep-orange-2{border: 2px inset #FFCCBC; }
+.border-inset-deep-orange-1{border: 2px inset #FBE9E7; }
+.border-inset-deep-orange{border: 2px inset #FF5722;}
+.border-inset-deep-orange-s1{border: 2px inset #FF9E80; }
+.border-inset-deep-orange-s2{border: 2px inset #FF6E40; }
+.border-inset-deep-orange-s3{border: 2px inset #FF3D00; }
+.border-inset-deep-orange-s4{border: 2px inset #DD2C00; }
+
+.border-inset-light-blue-1{border: 2px inset #E1F5FE ;}
+.border-inset-light-blue-2{border: 2px inset #B3E5FC;}
+.border-inset-light-blue-3{border: 2px inset #81D4FA;}
+.border-inset-light-blue-4{border: 2px inset #4FC3F7;}
+.border-inset-light-blue-5{border: 2px inset #29B6F6;}
+.border-inset-light-blue-6{border: 2px inset #03A9F4;}
+.border-inset-light-blue-7{border: 2px inset #039BE5;}
+.border-inset-light-blue-8{border: 2px inset #0288D1;}
+.border-inset-light-blue-9{border: 2px inset #0277BD;}
+.border-inset-light-blue-10{border: 2px inset #01579B;}
+.border-inset-light-blue{border: 2px inset #03A9F4;}
+.border-inset-light-blue-s1{border: 2px inset #80D8FF; }
+.border-inset-light-blue-s2{border: 2px inset #40C4FF; }
+.border-inset-light-blue-s3{border: 2px inset #00B0FF; }
+.border-inset-light-blue-s4{border: 2px inset #0091EA; }
+
+.border-inset-cyan-1{border: 2px inset #E0F7FA;}
+.border-inset-cyan-2{border: 2px inset #B2EBF2;}
+.border-inset-cyan-3{border: 2px inset #80DEEA;}
+.border-inset-cyan-4{border: 2px inset #4DD0E1;}
+.border-inset-cyan-5{border: 2px inset #26C6DA;}
+.border-inset-cyan-6{border: 2px inset #00BCD4;}
+.border-inset-cyan-7{border: 2px inset #00ACC1;}
+.border-inset-cyan-8{border: 2px inset #0097A7;}
+.border-inset-cyan-9{border: 2px inset #00838F;}
+.border-inset-cyan-10{border: 2px inset #006064;}
+.border-inset-cyan{border: 2px inset #00BCD4;}
+.border-inset-cyan-s1{border: 2px inset #84FFFF; }
+.border-inset-cyan-s2{border: 2px inset #18FFFF; }
+.border-inset-cyan-s3{border: 2px inset #00E5FF; }
+.border-inset-cyan-s4{border: 2px inset #00B8D4; }
+
+.border-inset-teal-1{border: 2px inset #E0F2F1;}
+.border-inset-teal-2{border: 2px inset #B2DFDB;}
+.border-inset-teal-3{border: 2px inset #80CBC4;}
+.border-inset-teal-4{border: 2px inset #4DB6AC;}
+.border-inset-teal-5{border: 2px inset #26A69A;}
+.border-inset-teal-6{border: 2px inset #009688;}
+.border-inset-teal-7{border: 2px inset #00897B;}
+.border-inset-teal-8{border: 2px inset #00796B;}
+.border-inset-teal-9{border: 2px inset #00695C;}
+.border-inset-teal-10{border: 2px inset #004D40;}
+.border-inset-teal{border: 2px inset #009688;}
+.border-inset-teal-s1{border: 2px inset #A7FFEB; }
+.border-inset-teal-s2{border: 2px inset #64FFDA; }
+.border-inset-teal-s3{border: 2px inset #1DE9B6; }
+.border-inset-teal-s4{border: 2px inset #00BFA5; }
+
+.border-inset-green-1{border: 2px inset #E8F5E9;}
+.border-inset-green-2{border: 2px inset #C8E6C9;}
+.border-inset-green-3{border: 2px inset #A5D6A7;}
+.border-inset-green-4{border: 2px inset #81C784;}
+.border-inset-green-5{border: 2px inset #66BB6A;}
+.border-inset-green-6{border: 2px inset #4CAF50;}
+.border-inset-green-7{border: 2px inset #43A047;}
+.border-inset-green-8{border: 2px inset #388E3C;}
+.border-inset-green-9{border: 2px inset #2E7D32;}
+.border-inset-green-10{border: 2px inset #1B5E20;}
+.border-inset-green{border: 2px inset #4CAF50;}
+.border-inset-green-s1{border: 2px inset #B9F6CA; }
+.border-inset-green-s2{border: 2px inset #69F0AE; }
+.border-inset-green-s3{border: 2px inset #00E676; }
+.border-inset-green-s4{border: 2px inset #00C853; }
+
+.border-inset-light-green-1{border: 2px inset #F1F8E9;}
+.border-inset-light-green-2{border: 2px inset #DCEDC8;}
+.border-inset-light-green-3{border: 2px inset #C5E1A5;}
+.border-inset-light-green-4{border: 2px inset #AED581;}
+.border-inset-light-green-5{border: 2px inset #9CCC65;}
+.border-inset-light-green-6{border: 2px inset #8BC34A;}
+.border-inset-light-green-7{border: 2px inset #7CB342;}
+.border-inset-light-green-8{border: 2px inset #689F38;}
+.border-inset-light-green-9{border: 2px inset #558B2F;}
+.border-inset-light-green-10{border: 2px inset #33691E;}
+.border-inset-light-green{border: 2px inset #8BC34A;}
+.border-inset-light-green-s1{border: 2px inset #CCFF90; }
+.border-inset-light-green-s2{border: 2px inset #B2FF59; }
+.border-inset-light-green-s3{border: 2px inset #76FF03; }
+.border-inset-light-green-s4{border: 2px inset #64DD17; }
+
+.border-inset-lime-1{border: 2px inset #F9FBE7;}
+.border-inset-lime-2{border: 2px inset #F0F4C3;}
+.border-inset-lime-3{border: 2px inset #E6EE9C;}
+.border-inset-lime-4{border: 2px inset #DCE775;}
+.border-inset-lime-5{border: 2px inset #D4E157;}
+.border-inset-lime-6{border: 2px inset #CDDC39;}
+.border-inset-lime-7{border: 2px inset #C0CA33;}
+.border-inset-lime-8{border: 2px inset #AFB42B;}
+.border-inset-lime-9{border: 2px inset #9E9D24;}
+.border-inset-lime-10{border: 2px inset #827717;}
+.border-inset-lime{border: 2px inset #CDDC39;}
+.border-inset-lime-s1{border: 2px inset #F4FF81; }
+.border-inset-lime-s2{border: 2px inset #EEFF41; }
+.border-inset-lime-s3{border: 2px inset #C6FF00; }
+.border-inset-lime-s4{border: 2px inset #AEEA00; }
+
+.border-inset-yellow-1{border: 2px inset #FFFDE7;}
+.border-inset-yellow-2{border: 2px inset #FFF9C4;}
+.border-inset-yellow-3{border: 2px inset #FFF59D;}
+.border-inset-yellow-4{border: 2px inset #FFF176;}
+.border-inset-yellow-5{border: 2px inset #FFEE58;}
+.border-inset-yellow-6{border: 2px inset #FFEB3B;}
+.border-inset-yellow-7{border: 2px inset #FDD835;}
+.border-inset-yellow-8{border: 2px inset #FBC02D;}
+.border-inset-yellow-9{border: 2px inset #F9A825;}
+.border-inset-yellow-10{border: 2px inset #F57F17;}
+.border-inset-yellow{border: 2px inset #FFEB3B;}
+.border-inset-yellow-s1{border: 2px inset #FFFF8D; }
+.border-inset-yellow-s2{border: 2px inset #FFFF00; }
+.border-inset-yellow-s3{border: 2px inset #FFEA00; }
+.border-inset-yellow-s4{border: 2px inset #FFD600; }
+
+.border-inset-amber-1{border: 2px inset #FFF8E1;}
+.border-inset-amber-2{border: 2px inset #FFECB3;}
+.border-inset-amber-3{border: 2px inset #FFE082;}
+.border-inset-amber-4{border: 2px inset #FFD54F;}
+.border-inset-amber-5{border: 2px inset #FFCA28;}
+.border-inset-amber-6{border: 2px inset #FFC107;}
+.border-inset-amber-7{border: 2px inset #FFB300;}
+.border-inset-amber-8{border: 2px inset #FFA000;}
+.border-inset-amber-9{border: 2px inset #FF8F00;}
+.border-inset-amber-10{border: 2px inset #FF6F00;}
+.border-inset-amber{border: 2px inset #FFC107;}
+.border-inset-amber-s1{border: 2px inset #FFE57F; }
+.border-inset-amber-s2{border: 2px inset #FFD740; }
+.border-inset-amber-s3{border: 2px inset #FFC400; }
+.border-inset-amber-s4{border: 2px inset #FFAB00; }
+
+
+.border-inset-orange-1{border: 2px inset #FFF3E0;}
+.border-inset-orange-2{border: 2px inset #FFE0B2;}
+.border-inset-orange-3{border: 2px inset #FFCC80;}
+.border-inset-orange-4{border: 2px inset #FFB74D;}
+.border-inset-orange-5{border: 2px inset #FFA726;}
+.border-inset-orange-6{border: 2px inset #FF9800;}
+.border-inset-orange-7{border: 2px inset #FB8C00;}
+.border-inset-orange-8{border: 2px inset #F57C00;}
+.border-inset-orange-9{border: 2px inset #EF6C00;}
+.border-inset-orange-10{border: 2px inset #E65100;}
+.border-inset-orange{border: 2px inset #FF9800;}
+.border-inset-orange-s1{border: 2px inset #FFD180; }
+.border-inset-orange-s2{border: 2px inset #FFAB40; }
+.border-inset-orange-s3{border: 2px inset #FF9100; }
+.border-inset-orange-s4{border: 2px inset #FF6D00; }
+
+.border-ridge-red-10{border:2px ridge #B71C1C;}
+.border-ridge-red-9{border: 2px ridge #C62828; }
+.border-ridge-red-8{border: 2px ridge #D32F2F; }
+.border-ridge-red-7{border: 2px ridge #E53935; }
+.border-ridge-red-6{border: 2px ridge #F44336;}
+.border-ridge-red-5{border: 2px ridge #EF5350; }
+.border-ridge-red-4{border: 2px ridge #E57373; }
+.border-ridge-red-3{border: 2px ridge #EF9A9A; }
+.border-ridge-red-2{border: 2px ridge #FFCDD2; }
+.border-ridge-red-1{border: 2px ridge #FFEBEE; }
+.border-ridge-red{border: 2px ridge #F44336; }
+.border-ridge-red-s1{border: 2px ridge #FF8A80; }
+.border-ridge-red-s2{border: 2px ridge #FF5252; }
+.border-ridge-red-s3{border: 2px ridge #FF1744;}
+.border-ridge-red-s4{border: 2px ridge #D50000;}
+
+.border-ridge-pink-10{border: 2px ridge #880E4F;}
+.border-ridge-pink-9{border: 2px ridge #AD1457; }
+.border-ridge-pink-8{border: 2px ridge #C2185B; }
+.border-ridge-pink-7{border: 2px ridge #D81B60; }
+.border-ridge-pink-6{border: 2px ridge #E91E63; }
+.border-ridge-pink-5{border: 2px ridge #EC407A; }
+.border-ridge-pink-4{border: 2px ridge #F06292; }
+.border-ridge-pink-3{border: 2px ridge #F48FB1; }
+.border-ridge-pink-2{border: 2px ridge #F8BBD0; }
+.border-ridge-pink-1{border: 2px ridge #FCE4EC; }
+.border-ridge-pink{border: 2px ridge #E91E63; }
+.border-ridge-pink-s1{border: 2px ridge #FF80AB; }
+.border-ridge-pink-s2{border: 2px ridge #FF4081; }
+.border-ridge-pink-s3{border: 2px ridge #F50057; }
+.border-ridge-pink-s4{border: 2px ridge #C51162; }
+
+.border-ridge-purple-10{border: 2px ridge #4A148C;}
+.border-ridge-purple-9{border: 2px ridge #6A1B9A; }
+.border-ridge-purple-8{border: 2px ridge #7B1FA2; }
+.border-ridge-purple-7{border: 2px ridge #8E24AA; }
+.border-ridge-purple-6{border: 2px ridge #9C27B0; }
+.border-ridge-purple-5{border: 2px ridge #AB47BC; }
+.border-ridge-purple-4{border: 2px ridge #BA68C8; }
+.border-ridge-purple-3{border: 2px ridge #CE93D8; }
+.border-ridge-purple-2{border: 2px ridge #E1BEE7; }
+.border-ridge-purple-1{border: 2px ridge #F3E5F5; }
+.border-ridge-purple{border: 2px ridge #9C27B0;}
+.border-ridge-purple-s1{border: 2px ridge #EA80FC; }
+.border-ridge-purple-s2{border: 2px ridge #E040FB; }
+.border-ridge-purple-s3{border: 2px ridge #D500F9; }
+.border-ridge-purple-s4{border: 2px ridge #AA00FF; }
+
+.border-ridge-deep-purple-10{border: 2px ridge #311B92;}
+.border-ridge-deep-purple-9{border: 2px ridge #4527A0; }
+.border-ridge-deep-purple-8{border: 2px ridge #512DA8; }
+.border-ridge-deep-purple-7{border: 2px ridge #5E35B1; }
+.border-ridge-deep-purple-6{border: 2px ridge #673AB7; }
+.border-ridge-deep-purple-5{border: 2px ridge #7E57C2; }
+.border-ridge-deep-purple-4{border: 2px ridge #9575CD; }
+.border-ridge-deep-purple-3{border: 2px ridge #B39DDB; }
+.border-ridge-deep-purple-2{border: 2px ridge #D1C4E9; }
+.border-ridge-deep-purple-1{border: 2px ridge #EDE7F6; }
+.border-ridge-deep-purple{border: 2px ridge #673AB7; }
+.border-ridge-deep-purple-s1{border: 2px ridge #B388FF; }
+.border-ridge-deep-purple-s2{border: 2px ridge #7C4DFF; }
+.border-ridge-deep-purple-s3{border: 2px ridge #651FFF; }
+.border-ridge-deep-purple-s4{border: 2px ridge #6200EA; }
+
+.border-ridge-indigo-10{border: 2px ridge #1A237E;}
+.border-ridge-indigo-9{border: 2px ridge #283593;}
+.border-ridge-indigo-8{border: 2px ridge #303F9F;}
+.border-ridge-indigo-7{border: 2px ridge #3949AB;}
+.border-ridge-indigo-6{border: 2px ridge #3F51B5;}
+.border-ridge-indigo-5{border: 2px ridge #5C6BC0;}
+.border-ridge-indigo-4{border: 2px ridge #7986CB;}
+.border-ridge-indigo-3{border: 2px ridge #9FA8DA;}
+.border-ridge-indigo-2{border: 2px ridge #C5CAE9;}
+.border-ridge-indigo-1{border: 2px ridge #E8EAF6;}
+.border-ridge-indigo{border: 2px ridge #3F51B5;}
+.border-ridge-indigo-s1{border: 2px ridge #8C9EFF; }
+.border-ridge-indigo-s2{border: 2px ridge #536DFE; }
+.border-ridge-indigo-s3{border: 2px ridge #3D5AFE; }
+.border-ridge-indigo-s4{border: 2px ridge #304FFE; }
+
+.border-ridge-blue-10{border: 2px ridge #0D47A1;}
+.border-ridge-blue-9{border: 2px ridge #1565C0; }
+.border-ridge-blue-8{border: 2px ridge #1976D2; }
+.border-ridge-blue-7{border: 2px ridge #1E88E5; }
+.border-ridge-blue-6{border: 2px ridge #2196F3; }
+.border-ridge-blue-5{border: 2px ridge #42A5F5; }
+.border-ridge-blue-4{border: 2px ridge #64B5F6; }
+.border-ridge-blue-3{border: 2px ridge #90CAF9; }
+.border-ridge-blue-2{border: 2px ridge #BBDEFB; }
+.border-ridge-blue-1{border: 2px ridge #E3F2FD; }
+.border-ridge-blue{border: 2px ridge #2196F3; }
+.border-ridge-blue-s1{border: 2px ridge #82B1FF; }
+.border-ridge-blue-s2{border: 2px ridge #448AFF; }
+.border-ridge-blue-s3{border: 2px ridge #2979FF; }
+.border-ridge-blue-s4{border: 2px ridge #2962FF; }
+
+.border-ridge-black{border: 2px ridge #000000; }
+.border-ridge-white{border: 2px ridge #FFFFFF;}
+
+
+.border-ridge-blue-grey-10{border: 2px ridge #263238;}
+.border-ridge-blue-grey-9{border: 2px ridge #37474F; }
+.border-ridge-blue-grey-8{border: 2px ridge #455A64; }
+.border-ridge-blue-grey-7{border: 2px ridge #546E7A; }
+.border-ridge-blue-grey-6{border: 2px ridge #607D8B; }
+.border-ridge-blue-grey-5{border: 2px ridge #78909C; }
+.border-ridge-blue-grey-4{border: 2px ridge #90A4AE; }
+.border-ridge-blue-grey-3{border: 2px ridge #B0BEC5; }
+.border-ridge-blue-grey-2{border: 2px ridge #CFD8DC; }
+.border-ridge-blue-grey-1{border: 2px ridge #ECEFF1; }
+.border-ridge-blue-grey{border: 2px ridge #607D8B;}
+
+
+.border-ridge-grey-10{border: 2px ridge #212121;}
+.border-ridge-grey-9{border: 2px ridge #424242; }
+.border-ridge-grey-8{border: 2px ridge #616161; }
+.border-ridge-grey-7{border: 2px ridge #757575; }
+.border-ridge-grey-6{border: 2px ridge #9E9E9E; }
+.border-ridge-grey-5{border: 2px ridge #BDBDBD; }
+.border-ridge-grey-4{border: 2px ridge #E0E0E0; }
+.border-ridge-grey-3{border: 2px ridge #EEEEEE; }
+.border-ridge-grey-2{border: 2px ridge #F5F5F5; }
+.border-ridge-grey-1{border: 2px ridge #FAFAFA; }
+.border-ridge-grey{border: 2px ridge #9E9E9E; }
+
+
+.border-ridge-brown-10{border: 2px ridge #3E2723;}
+.border-ridge-brown-9{border: 2px ridge #4E342E; }
+.border-ridge-brown-8{border: 2px ridge #5D4037; }
+.border-ridge-brown-7{border: 2px ridge #6D4C41; }
+.border-ridge-brown-6{border: 2px ridge #795548; }
+.border-ridge-brown-5{border: 2px ridge #8D6E63; }
+.border-ridge-brown-4{border: 2px ridge #A1887F; }
+.border-ridge-brown-3{border: 2px ridge #BCAAA4; }
+.border-ridge-brown-2{border: 2px ridge #D7CCC8; }
+.border-ridge-brown-1{border: 2px ridge #EFEBE9; }
+.border-ridge-brown{border: 2px ridge #795548; }
+
+.border-ridge-deep-orange-10{border: 2px ridge #BF360C; }
+.border-ridge-deep-orange-9{border: 2px ridge #D84315; }
+.border-ridge-deep-orange-8{border: 2px ridge #E64A19; }
+.border-ridge-deep-orange-7{border: 2px ridge #F4511E; }
+.border-ridge-deep-orange-6{border: 2px ridge #FF5722; }
+.border-ridge-deep-orange-5{border: 2px ridge #FF7043; }
+.border-ridge-deep-orange-4{border: 2px ridge #FF8A65; }
+.border-ridge-deep-orange-3{border: 2px ridge #FFAB91; }
+.border-ridge-deep-orange-2{border: 2px ridge #FFCCBC; }
+.border-ridge-deep-orange-1{border: 2px ridge #FBE9E7; }
+.border-ridge-deep-orange{border: 2px ridge #FF5722;}
+.border-ridge-deep-orange-s1{border: 2px ridge #FF9E80; }
+.border-ridge-deep-orange-s2{border: 2px ridge #FF6E40; }
+.border-ridge-deep-orange-s3{border: 2px ridge #FF3D00; }
+.border-ridge-deep-orange-s4{border: 2px ridge #DD2C00; }
+
+.border-ridge-light-blue-1{border: 2px ridge #E1F5FE ;}
+.border-ridge-light-blue-2{border: 2px ridge #B3E5FC;}
+.border-ridge-light-blue-3{border: 2px ridge #81D4FA;}
+.border-ridge-light-blue-4{border: 2px ridge #4FC3F7;}
+.border-ridge-light-blue-5{border: 2px ridge #29B6F6;}
+.border-ridge-light-blue-6{border: 2px ridge #03A9F4;}
+.border-ridge-light-blue-7{border: 2px ridge #039BE5;}
+.border-ridge-light-blue-8{border: 2px ridge #0288D1;}
+.border-ridge-light-blue-9{border: 2px ridge #0277BD;}
+.border-ridge-light-blue-10{border: 2px ridge #01579B;}
+.border-ridge-light-blue{border: 2px ridge #03A9F4;}
+.border-ridge-light-blue-s1{border: 2px ridge #80D8FF; }
+.border-ridge-light-blue-s2{border: 2px ridge #40C4FF; }
+.border-ridge-light-blue-s3{border: 2px ridge #00B0FF; }
+.border-ridge-light-blue-s4{border: 2px ridge #0091EA; }
+
+.border-ridge-cyan-1{border: 2px ridge #E0F7FA;}
+.border-ridge-cyan-2{border: 2px ridge #B2EBF2;}
+.border-ridge-cyan-3{border: 2px ridge #80DEEA;}
+.border-ridge-cyan-4{border: 2px ridge #4DD0E1;}
+.border-ridge-cyan-5{border: 2px ridge #26C6DA;}
+.border-ridge-cyan-6{border: 2px ridge #00BCD4;}
+.border-ridge-cyan-7{border: 2px ridge #00ACC1;}
+.border-ridge-cyan-8{border: 2px ridge #0097A7;}
+.border-ridge-cyan-9{border: 2px ridge #00838F;}
+.border-ridge-cyan-10{border: 2px ridge #006064;}
+.border-ridge-cyan{border: 2px ridge #00BCD4;}
+.border-ridge-cyan-s1{border: 2px ridge #84FFFF; }
+.border-ridge-cyan-s2{border: 2px ridge #18FFFF; }
+.border-ridge-cyan-s3{border: 2px ridge #00E5FF; }
+.border-ridge-cyan-s4{border: 2px ridge #00B8D4; }
+
+.border-ridge-teal-1{border: 2px ridge #E0F2F1;}
+.border-ridge-teal-2{border: 2px ridge #B2DFDB;}
+.border-ridge-teal-3{border: 2px ridge #80CBC4;}
+.border-ridge-teal-4{border: 2px ridge #4DB6AC;}
+.border-ridge-teal-5{border: 2px ridge #26A69A;}
+.border-ridge-teal-6{border: 2px ridge #009688;}
+.border-ridge-teal-7{border: 2px ridge #00897B;}
+.border-ridge-teal-8{border: 2px ridge #00796B;}
+.border-ridge-teal-9{border: 2px ridge #00695C;}
+.border-ridge-teal-10{border: 2px ridge #004D40;}
+.border-ridge-teal{border: 2px ridge #009688;}
+.border-ridge-teal-s1{border: 2px ridge #A7FFEB; }
+.border-ridge-teal-s2{border: 2px ridge #64FFDA; }
+.border-ridge-teal-s3{border: 2px ridge #1DE9B6; }
+.border-ridge-teal-s4{border: 2px ridge #00BFA5; }
+
+.border-ridge-green-1{border: 2px ridge #E8F5E9;}
+.border-ridge-green-2{border: 2px ridge #C8E6C9;}
+.border-ridge-green-3{border: 2px ridge #A5D6A7;}
+.border-ridge-green-4{border: 2px ridge #81C784;}
+.border-ridge-green-5{border: 2px ridge #66BB6A;}
+.border-ridge-green-6{border: 2px ridge #4CAF50;}
+.border-ridge-green-7{border: 2px ridge #43A047;}
+.border-ridge-green-8{border: 2px ridge #388E3C;}
+.border-ridge-green-9{border: 2px ridge #2E7D32;}
+.border-ridge-green-10{border: 2px ridge #1B5E20;}
+.border-ridge-green{border: 2px ridge #4CAF50;}
+.border-ridge-green-s1{border: 2px ridge #B9F6CA; }
+.border-ridge-green-s2{border: 2px ridge #69F0AE; }
+.border-ridge-green-s3{border: 2px ridge #00E676; }
+.border-ridge-green-s4{border: 2px ridge #00C853; }
+
+.border-ridge-light-green-1{border: 2px ridge #F1F8E9;}
+.border-ridge-light-green-2{border: 2px ridge #DCEDC8;}
+.border-ridge-light-green-3{border: 2px ridge #C5E1A5;}
+.border-ridge-light-green-4{border: 2px ridge #AED581;}
+.border-ridge-light-green-5{border: 2px ridge #9CCC65;}
+.border-ridge-light-green-6{border: 2px ridge #8BC34A;}
+.border-ridge-light-green-7{border: 2px ridge #7CB342;}
+.border-ridge-light-green-8{border: 2px ridge #689F38;}
+.border-ridge-light-green-9{border: 2px ridge #558B2F;}
+.border-ridge-light-green-10{border: 2px ridge #33691E;}
+.border-ridge-light-green{border: 2px ridge #8BC34A;}
+.border-ridge-light-green-s1{border: 2px ridge #CCFF90; }
+.border-ridge-light-green-s2{border: 2px ridge #B2FF59; }
+.border-ridge-light-green-s3{border: 2px ridge #76FF03; }
+.border-ridge-light-green-s4{border: 2px ridge #64DD17; }
+
+.border-ridge-lime-1{border: 2px ridge #F9FBE7;}
+.border-ridge-lime-2{border: 2px ridge #F0F4C3;}
+.border-ridge-lime-3{border: 2px ridge #E6EE9C;}
+.border-ridge-lime-4{border: 2px ridge #DCE775;}
+.border-ridge-lime-5{border: 2px ridge #D4E157;}
+.border-ridge-lime-6{border: 2px ridge #CDDC39;}
+.border-ridge-lime-7{border: 2px ridge #C0CA33;}
+.border-ridge-lime-8{border: 2px ridge #AFB42B;}
+.border-ridge-lime-9{border: 2px ridge #9E9D24;}
+.border-ridge-lime-10{border: 2px ridge #827717;}
+.border-ridge-lime{border: 2px ridge #CDDC39;}
+.border-ridge-lime-s1{border: 2px ridge #F4FF81; }
+.border-ridge-lime-s2{border: 2px ridge #EEFF41; }
+.border-ridge-lime-s3{border: 2px ridge #C6FF00; }
+.border-ridge-lime-s4{border: 2px ridge #AEEA00; }
+
+.border-ridge-yellow-1{border: 2px ridge #FFFDE7;}
+.border-ridge-yellow-2{border: 2px ridge #FFF9C4;}
+.border-ridge-yellow-3{border: 2px ridge #FFF59D;}
+.border-ridge-yellow-4{border: 2px ridge #FFF176;}
+.border-ridge-yellow-5{border: 2px ridge #FFEE58;}
+.border-ridge-yellow-6{border: 2px ridge #FFEB3B;}
+.border-ridge-yellow-7{border: 2px ridge #FDD835;}
+.border-ridge-yellow-8{border: 2px ridge #FBC02D;}
+.border-ridge-yellow-9{border: 2px ridge #F9A825;}
+.border-ridge-yellow-10{border: 2px ridge #F57F17;}
+.border-ridge-yellow{border: 2px ridge #FFEB3B;}
+.border-ridge-yellow-s1{border: 2px ridge #FFFF8D; }
+.border-ridge-yellow-s2{border: 2px ridge #FFFF00; }
+.border-ridge-yellow-s3{border: 2px ridge #FFEA00; }
+.border-ridge-yellow-s4{border: 2px ridge #FFD600; }
+
+.border-ridge-amber-1{border: 2px ridge #FFF8E1;}
+.border-ridge-amber-2{border: 2px ridge #FFECB3;}
+.border-ridge-amber-3{border: 2px ridge #FFE082;}
+.border-ridge-amber-4{border: 2px ridge #FFD54F;}
+.border-ridge-amber-5{border: 2px ridge #FFCA28;}
+.border-ridge-amber-6{border: 2px ridge #FFC107;}
+.border-ridge-amber-7{border: 2px ridge #FFB300;}
+.border-ridge-amber-8{border: 2px ridge #FFA000;}
+.border-ridge-amber-9{border: 2px ridge #FF8F00;}
+.border-ridge-amber-10{border: 2px ridge #FF6F00;}
+.border-ridge-amber{border: 2px ridge #FFC107;}
+.border-ridge-amber-s1{border: 2px ridge #FFE57F; }
+.border-ridge-amber-s2{border: 2px ridge #FFD740; }
+.border-ridge-amber-s3{border: 2px ridge #FFC400; }
+.border-ridge-amber-s4{border: 2px ridge #FFAB00; }
+
+
+.border-ridge-orange-1{border: 2px ridge #FFF3E0;}
+.border-ridge-orange-2{border: 2px ridge #FFE0B2;}
+.border-ridge-orange-3{border: 2px ridge #FFCC80;}
+.border-ridge-orange-4{border: 2px ridge #FFB74D;}
+.border-ridge-orange-5{border: 2px ridge #FFA726;}
+.border-ridge-orange-6{border: 2px ridge #FF9800;}
+.border-ridge-orange-7{border: 2px ridge #FB8C00;}
+.border-ridge-orange-8{border: 2px ridge #F57C00;}
+.border-ridge-orange-9{border: 2px ridge #EF6C00;}
+.border-ridge-orange-10{border: 2px ridge #E65100;}
+.border-ridge-orange{border: 2px ridge #FF9800;}
+.border-ridge-orange-s1{border: 2px ridge #FFD180; }
+.border-ridge-orange-s2{border: 2px ridge #FFAB40; }
+.border-ridge-orange-s3{border: 2px ridge #FF9100; }
+.border-ridge-orange-s4{border: 2px ridge #FF6D00; }
+
+.border-groove-red-10{border:2px groove #B71C1C;}
+.border-groove-red-9{border: 2px groove #C62828; }
+.border-groove-red-8{border: 2px groove #D32F2F; }
+.border-groove-red-7{border: 2px groove #E53935; }
+.border-groove-red-6{border: 2px groove #F44336;}
+.border-groove-red-5{border: 2px groove #EF5350; }
+.border-groove-red-4{border: 2px groove #E57373; }
+.border-groove-red-3{border: 2px groove #EF9A9A; }
+.border-groove-red-2{border: 2px groove #FFCDD2; }
+.border-groove-red-1{border: 2px groove #FFEBEE; }
+.border-groove-red{border: 2px groove #F44336; }
+.border-groove-red-s1{border: 2px groove #FF8A80; }
+.border-groove-red-s2{border: 2px groove #FF5252; }
+.border-groove-red-s3{border: 2px groove #FF1744;}
+.border-groove-red-s4{border: 2px groove #D50000;}
+
+.border-groove-pink-10{border: 2px groove #880E4F;}
+.border-groove-pink-9{border: 2px groove #AD1457; }
+.border-groove-pink-8{border: 2px groove #C2185B; }
+.border-groove-pink-7{border: 2px groove #D81B60; }
+.border-groove-pink-6{border: 2px groove #E91E63; }
+.border-groove-pink-5{border: 2px groove #EC407A; }
+.border-groove-pink-4{border: 2px groove #F06292; }
+.border-groove-pink-3{border: 2px groove #F48FB1; }
+.border-groove-pink-2{border: 2px groove #F8BBD0; }
+.border-groove-pink-1{border: 2px groove #FCE4EC; }
+.border-groove-pink{border: 2px groove #E91E63; }
+.border-groove-pink-s1{border: 2px groove #FF80AB; }
+.border-groove-pink-s2{border: 2px groove #FF4081; }
+.border-groove-pink-s3{border: 2px groove #F50057; }
+.border-groove-pink-s4{border: 2px groove #C51162; }
+
+.border-groove-purple-10{border: 2px groove #4A148C;}
+.border-groove-purple-9{border: 2px groove #6A1B9A; }
+.border-groove-purple-8{border: 2px groove #7B1FA2; }
+.border-groove-purple-7{border: 2px groove #8E24AA; }
+.border-groove-purple-6{border: 2px groove #9C27B0; }
+.border-groove-purple-5{border: 2px groove #AB47BC; }
+.border-groove-purple-4{border: 2px groove #BA68C8; }
+.border-groove-purple-3{border: 2px groove #CE93D8; }
+.border-groove-purple-2{border: 2px groove #E1BEE7; }
+.border-groove-purple-1{border: 2px groove #F3E5F5; }
+.border-groove-purple{border: 2px groove #9C27B0;}
+.border-groove-purple-s1{border: 2px groove #EA80FC; }
+.border-groove-purple-s2{border: 2px groove #E040FB; }
+.border-groove-purple-s3{border: 2px groove #D500F9; }
+.border-groove-purple-s4{border: 2px groove #AA00FF; }
+
+.border-groove-deep-purple-10{border: 2px groove #311B92;}
+.border-groove-deep-purple-9{border: 2px groove #4527A0; }
+.border-groove-deep-purple-8{border: 2px groove #512DA8; }
+.border-groove-deep-purple-7{border: 2px groove #5E35B1; }
+.border-groove-deep-purple-6{border: 2px groove #673AB7; }
+.border-groove-deep-purple-5{border: 2px groove #7E57C2; }
+.border-groove-deep-purple-4{border: 2px groove #9575CD; }
+.border-groove-deep-purple-3{border: 2px groove #B39DDB; }
+.border-groove-deep-purple-2{border: 2px groove #D1C4E9; }
+.border-groove-deep-purple-1{border: 2px groove #EDE7F6; }
+.border-groove-deep-purple{border: 2px groove #673AB7; }
+.border-groove-deep-purple-s1{border: 2px groove #B388FF; }
+.border-groove-deep-purple-s2{border: 2px groove #7C4DFF; }
+.border-groove-deep-purple-s3{border: 2px groove #651FFF; }
+.border-groove-deep-purple-s4{border: 2px groove #6200EA; }
+
+.border-groove-indigo-10{border: 2px groove #1A237E;}
+.border-groove-indigo-9{border: 2px groove #283593;}
+.border-groove-indigo-8{border: 2px groove #303F9F;}
+.border-groove-indigo-7{border: 2px groove #3949AB;}
+.border-groove-indigo-6{border: 2px groove #3F51B5;}
+.border-groove-indigo-5{border: 2px groove #5C6BC0;}
+.border-groove-indigo-4{border: 2px groove #7986CB;}
+.border-groove-indigo-3{border: 2px groove #9FA8DA;}
+.border-groove-indigo-2{border: 2px groove #C5CAE9;}
+.border-groove-indigo-1{border: 2px groove #E8EAF6;}
+.border-groove-indigo{border: 2px groove #3F51B5;}
+.border-groove-indigo-s1{border: 2px groove #8C9EFF; }
+.border-groove-indigo-s2{border: 2px groove #536DFE; }
+.border-groove-indigo-s3{border: 2px groove #3D5AFE; }
+.border-groove-indigo-s4{border: 2px groove #304FFE; }
+
+.border-groove-blue-10{border: 2px groove #0D47A1;}
+.border-groove-blue-9{border: 2px groove #1565C0; }
+.border-groove-blue-8{border: 2px groove #1976D2; }
+.border-groove-blue-7{border: 2px groove #1E88E5; }
+.border-groove-blue-6{border: 2px groove #2196F3; }
+.border-groove-blue-5{border: 2px groove #42A5F5; }
+.border-groove-blue-4{border: 2px groove #64B5F6; }
+.border-groove-blue-3{border: 2px groove #90CAF9; }
+.border-groove-blue-2{border: 2px groove #BBDEFB; }
+.border-groove-blue-1{border: 2px groove #E3F2FD; }
+.border-groove-blue{border: 2px groove #2196F3; }
+.border-groove-blue-s1{border: 2px groove #82B1FF; }
+.border-groove-blue-s2{border: 2px groove #448AFF; }
+.border-groove-blue-s3{border: 2px groove #2979FF; }
+.border-groove-blue-s4{border: 2px groove #2962FF; }
+
+.border-groove-black{border: 2px groove #000000; }
+.border-groove-white{border: 2px groove #FFFFFF;}
+
+
+.border-groove-blue-grey-10{border: 2px groove #263238;}
+.border-groove-blue-grey-9{border: 2px groove #37474F; }
+.border-groove-blue-grey-8{border: 2px groove #455A64; }
+.border-groove-blue-grey-7{border: 2px groove #546E7A; }
+.border-groove-blue-grey-6{border: 2px groove #607D8B; }
+.border-groove-blue-grey-5{border: 2px groove #78909C; }
+.border-groove-blue-grey-4{border: 2px groove #90A4AE; }
+.border-groove-blue-grey-3{border: 2px groove #B0BEC5; }
+.border-groove-blue-grey-2{border: 2px groove #CFD8DC; }
+.border-groove-blue-grey-1{border: 2px groove #ECEFF1; }
+.border-groove-blue-grey{border: 2px groove #607D8B;}
+
+
+.border-groove-grey-10{border: 2px groove #212121;}
+.border-groove-grey-9{border: 2px groove #424242; }
+.border-groove-grey-8{border: 2px groove #616161; }
+.border-groove-grey-7{border: 2px groove #757575; }
+.border-groove-grey-6{border: 2px groove #9E9E9E; }
+.border-groove-grey-5{border: 2px groove #BDBDBD; }
+.border-groove-grey-4{border: 2px groove #E0E0E0; }
+.border-groove-grey-3{border: 2px groove #EEEEEE; }
+.border-groove-grey-2{border: 2px groove #F5F5F5; }
+.border-groove-grey-1{border: 2px groove #FAFAFA; }
+.border-groove-grey{border: 2px groove #9E9E9E; }
+
+
+.border-groove-brown-10{border: 2px groove #3E2723;}
+.border-groove-brown-9{border: 2px groove #4E342E; }
+.border-groove-brown-8{border: 2px groove #5D4037; }
+.border-groove-brown-7{border: 2px groove #6D4C41; }
+.border-groove-brown-6{border: 2px groove #795548; }
+.border-groove-brown-5{border: 2px groove #8D6E63; }
+.border-groove-brown-4{border: 2px groove #A1887F; }
+.border-groove-brown-3{border: 2px groove #BCAAA4; }
+.border-groove-brown-2{border: 2px groove #D7CCC8; }
+.border-groove-brown-1{border: 2px groove #EFEBE9; }
+.border-groove-brown{border: 2px groove #795548; }
+
+.border-groove-deep-orange-10{border: 2px groove #BF360C; }
+.border-groove-deep-orange-9{border: 2px groove #D84315; }
+.border-groove-deep-orange-8{border: 2px groove #E64A19; }
+.border-groove-deep-orange-7{border: 2px groove #F4511E; }
+.border-groove-deep-orange-6{border: 2px groove #FF5722; }
+.border-groove-deep-orange-5{border: 2px groove #FF7043; }
+.border-groove-deep-orange-4{border: 2px groove #FF8A65; }
+.border-groove-deep-orange-3{border: 2px groove #FFAB91; }
+.border-groove-deep-orange-2{border: 2px groove #FFCCBC; }
+.border-groove-deep-orange-1{border: 2px groove #FBE9E7; }
+.border-groove-deep-orange{border: 2px groove #FF5722;}
+.border-groove-deep-orange-s1{border: 2px groove #FF9E80; }
+.border-groove-deep-orange-s2{border: 2px groove #FF6E40; }
+.border-groove-deep-orange-s3{border: 2px groove #FF3D00; }
+.border-groove-deep-orange-s4{border: 2px groove #DD2C00; }
+
+.border-groove-light-blue-1{border: 2px groove #E1F5FE ;}
+.border-groove-light-blue-2{border: 2px groove #B3E5FC;}
+.border-groove-light-blue-3{border: 2px groove #81D4FA;}
+.border-groove-light-blue-4{border: 2px groove #4FC3F7;}
+.border-groove-light-blue-5{border: 2px groove #29B6F6;}
+.border-groove-light-blue-6{border: 2px groove #03A9F4;}
+.border-groove-light-blue-7{border: 2px groove #039BE5;}
+.border-groove-light-blue-8{border: 2px groove #0288D1;}
+.border-groove-light-blue-9{border: 2px groove #0277BD;}
+.border-groove-light-blue-10{border: 2px groove #01579B;}
+.border-groove-light-blue{border: 2px groove #03A9F4;}
+.border-groove-light-blue-s1{border: 2px groove #80D8FF; }
+.border-groove-light-blue-s2{border: 2px groove #40C4FF; }
+.border-groove-light-blue-s3{border: 2px groove #00B0FF; }
+.border-groove-light-blue-s4{border: 2px groove #0091EA; }
+
+.border-groove-cyan-1{border: 2px groove #E0F7FA;}
+.border-groove-cyan-2{border: 2px groove #B2EBF2;}
+.border-groove-cyan-3{border: 2px groove #80DEEA;}
+.border-groove-cyan-4{border: 2px groove #4DD0E1;}
+.border-groove-cyan-5{border: 2px groove #26C6DA;}
+.border-groove-cyan-6{border: 2px groove #00BCD4;}
+.border-groove-cyan-7{border: 2px groove #00ACC1;}
+.border-groove-cyan-8{border: 2px groove #0097A7;}
+.border-groove-cyan-9{border: 2px groove #00838F;}
+.border-groove-cyan-10{border: 2px groove #006064;}
+.border-groove-cyan{border: 2px groove #00BCD4;}
+.border-groove-cyan-s1{border: 2px groove #84FFFF; }
+.border-groove-cyan-s2{border: 2px groove #18FFFF; }
+.border-groove-cyan-s3{border: 2px groove #00E5FF; }
+.border-groove-cyan-s4{border: 2px groove #00B8D4; }
+
+.border-groove-teal-1{border: 2px groove #E0F2F1;}
+.border-groove-teal-2{border: 2px groove #B2DFDB;}
+.border-groove-teal-3{border: 2px groove #80CBC4;}
+.border-groove-teal-4{border: 2px groove #4DB6AC;}
+.border-groove-teal-5{border: 2px groove #26A69A;}
+.border-groove-teal-6{border: 2px groove #009688;}
+.border-groove-teal-7{border: 2px groove #00897B;}
+.border-groove-teal-8{border: 2px groove #00796B;}
+.border-groove-teal-9{border: 2px groove #00695C;}
+.border-groove-teal-10{border: 2px groove #004D40;}
+.border-groove-teal{border: 2px groove #009688;}
+.border-groove-teal-s1{border: 2px groove #A7FFEB; }
+.border-groove-teal-s2{border: 2px groove #64FFDA; }
+.border-groove-teal-s3{border: 2px groove #1DE9B6; }
+.border-groove-teal-s4{border: 2px groove #00BFA5; }
+
+.border-groove-green-1{border: 2px groove #E8F5E9;}
+.border-groove-green-2{border: 2px groove #C8E6C9;}
+.border-groove-green-3{border: 2px groove #A5D6A7;}
+.border-groove-green-4{border: 2px groove #81C784;}
+.border-groove-green-5{border: 2px groove #66BB6A;}
+.border-groove-green-6{border: 2px groove #4CAF50;}
+.border-groove-green-7{border: 2px groove #43A047;}
+.border-groove-green-8{border: 2px groove #388E3C;}
+.border-groove-green-9{border: 2px groove #2E7D32;}
+.border-groove-green-10{border: 2px groove #1B5E20;}
+.border-groove-green{border: 2px groove #4CAF50;}
+.border-groove-green-s1{border: 2px groove #B9F6CA; }
+.border-groove-green-s2{border: 2px groove #69F0AE; }
+.border-groove-green-s3{border: 2px groove #00E676; }
+.border-groove-green-s4{border: 2px groove #00C853; }
+
+.border-groove-light-green-1{border: 2px groove #F1F8E9;}
+.border-groove-light-green-2{border: 2px groove #DCEDC8;}
+.border-groove-light-green-3{border: 2px groove #C5E1A5;}
+.border-groove-light-green-4{border: 2px groove #AED581;}
+.border-groove-light-green-5{border: 2px groove #9CCC65;}
+.border-groove-light-green-6{border: 2px groove #8BC34A;}
+.border-groove-light-green-7{border: 2px groove #7CB342;}
+.border-groove-light-green-8{border: 2px groove #689F38;}
+.border-groove-light-green-9{border: 2px groove #558B2F;}
+.border-groove-light-green-10{border: 2px groove #33691E;}
+.border-groove-light-green{border: 2px groove #8BC34A;}
+.border-groove-light-green-s1{border: 2px groove #CCFF90; }
+.border-groove-light-green-s2{border: 2px groove #B2FF59; }
+.border-groove-light-green-s3{border: 2px groove #76FF03; }
+.border-groove-light-green-s4{border: 2px groove #64DD17; }
+
+.border-groove-lime-1{border: 2px groove #F9FBE7;}
+.border-groove-lime-2{border: 2px groove #F0F4C3;}
+.border-groove-lime-3{border: 2px groove #E6EE9C;}
+.border-groove-lime-4{border: 2px groove #DCE775;}
+.border-groove-lime-5{border: 2px groove #D4E157;}
+.border-groove-lime-6{border: 2px groove #CDDC39;}
+.border-groove-lime-7{border: 2px groove #C0CA33;}
+.border-groove-lime-8{border: 2px groove #AFB42B;}
+.border-groove-lime-9{border: 2px groove #9E9D24;}
+.border-groove-lime-10{border: 2px groove #827717;}
+.border-groove-lime{border: 2px groove #CDDC39;}
+.border-groove-lime-s1{border: 2px groove #F4FF81; }
+.border-groove-lime-s2{border: 2px groove #EEFF41; }
+.border-groove-lime-s3{border: 2px groove #C6FF00; }
+.border-groove-lime-s4{border: 2px groove #AEEA00; }
+
+.border-groove-yellow-1{border: 2px groove #FFFDE7;}
+.border-groove-yellow-2{border: 2px groove #FFF9C4;}
+.border-groove-yellow-3{border: 2px groove #FFF59D;}
+.border-groove-yellow-4{border: 2px groove #FFF176;}
+.border-groove-yellow-5{border: 2px groove #FFEE58;}
+.border-groove-yellow-6{border: 2px groove #FFEB3B;}
+.border-groove-yellow-7{border: 2px groove #FDD835;}
+.border-groove-yellow-8{border: 2px groove #FBC02D;}
+.border-groove-yellow-9{border: 2px groove #F9A825;}
+.border-groove-yellow-10{border: 2px groove #F57F17;}
+.border-groove-yellow{border: 2px groove #FFEB3B;}
+.border-groove-yellow-s1{border: 2px groove #FFFF8D; }
+.border-groove-yellow-s2{border: 2px groove #FFFF00; }
+.border-groove-yellow-s3{border: 2px groove #FFEA00; }
+.border-groove-yellow-s4{border: 2px groove #FFD600; }
+
+.border-groove-amber-1{border: 2px groove #FFF8E1;}
+.border-groove-amber-2{border: 2px groove #FFECB3;}
+.border-groove-amber-3{border: 2px groove #FFE082;}
+.border-groove-amber-4{border: 2px groove #FFD54F;}
+.border-groove-amber-5{border: 2px groove #FFCA28;}
+.border-groove-amber-6{border: 2px groove #FFC107;}
+.border-groove-amber-7{border: 2px groove #FFB300;}
+.border-groove-amber-8{border: 2px groove #FFA000;}
+.border-groove-amber-9{border: 2px groove #FF8F00;}
+.border-groove-amber-10{border: 2px groove #FF6F00;}
+.border-groove-amber{border: 2px groove #FFC107;}
+.border-groove-amber-s1{border: 2px groove #FFE57F; }
+.border-groove-amber-s2{border: 2px groove #FFD740; }
+.border-groove-amber-s3{border: 2px groove #FFC400; }
+.border-groove-amber-s4{border: 2px groove #FFAB00; }
+
+
+.border-groove-orange-1{border: 2px groove #FFF3E0;}
+.border-groove-orange-2{border: 2px groove #FFE0B2;}
+.border-groove-orange-3{border: 2px groove #FFCC80;}
+.border-groove-orange-4{border: 2px groove #FFB74D;}
+.border-groove-orange-5{border: 2px groove #FFA726;}
+.border-groove-orange-6{border: 2px groove #FF9800;}
+.border-groove-orange-7{border: 2px groove #FB8C00;}
+.border-groove-orange-8{border: 2px groove #F57C00;}
+.border-groove-orange-9{border: 2px groove #EF6C00;}
+.border-groove-orange-10{border: 2px groove #E65100;}
+.border-groove-orange{border: 2px groove #FF9800;}
+.border-groove-orange-s1{border: 2px groove #FFD180; }
+.border-groove-orange-s2{border: 2px groove #FFAB40; }
+.border-groove-orange-s3{border: 2px groove #FF9100; }
+.border-groove-orange-s4{border: 2px groove #FF6D00; }
+
+.border-double-red-10{border:2px double #B71C1C;}
+.border-double-red-9{border: 2px double #C62828; }
+.border-double-red-8{border: 2px double #D32F2F; }
+.border-double-red-7{border: 2px double #E53935; }
+.border-double-red-6{border: 2px double #F44336;}
+.border-double-red-5{border: 2px double #EF5350; }
+.border-double-red-4{border: 2px double #E57373; }
+.border-double-red-3{border: 2px double #EF9A9A; }
+.border-double-red-2{border: 2px double #FFCDD2; }
+.border-double-red-1{border: 2px double #FFEBEE; }
+.border-double-red{border: 2px double #F44336; }
+.border-double-red-s1{border: 2px double #FF8A80; }
+.border-double-red-s2{border: 2px double #FF5252; }
+.border-double-red-s3{border: 2px double #FF1744;}
+.border-double-red-s4{border: 2px double #D50000;}
+
+.border-double-pink-10{border: 2px double #880E4F;}
+.border-double-pink-9{border: 2px double #AD1457; }
+.border-double-pink-8{border: 2px double #C2185B; }
+.border-double-pink-7{border: 2px double #D81B60; }
+.border-double-pink-6{border: 2px double #E91E63; }
+.border-double-pink-5{border: 2px double #EC407A; }
+.border-double-pink-4{border: 2px double #F06292; }
+.border-double-pink-3{border: 2px double #F48FB1; }
+.border-double-pink-2{border: 2px double #F8BBD0; }
+.border-double-pink-1{border: 2px double #FCE4EC; }
+.border-double-pink{border: 2px double #E91E63; }
+.border-double-pink-s1{border: 2px double #FF80AB; }
+.border-double-pink-s2{border: 2px double #FF4081; }
+.border-double-pink-s3{border: 2px double #F50057; }
+.border-double-pink-s4{border: 2px double #C51162; }
+
+.border-double-purple-10{border: 2px double #4A148C;}
+.border-double-purple-9{border: 2px double #6A1B9A; }
+.border-double-purple-8{border: 2px double #7B1FA2; }
+.border-double-purple-7{border: 2px double #8E24AA; }
+.border-double-purple-6{border: 2px double #9C27B0; }
+.border-double-purple-5{border: 2px double #AB47BC; }
+.border-double-purple-4{border: 2px double #BA68C8; }
+.border-double-purple-3{border: 2px double #CE93D8; }
+.border-double-purple-2{border: 2px double #E1BEE7; }
+.border-double-purple-1{border: 2px double #F3E5F5; }
+.border-double-purple{border: 2px double #9C27B0;}
+.border-double-purple-s1{border: 2px double #EA80FC; }
+.border-double-purple-s2{border: 2px double #E040FB; }
+.border-double-purple-s3{border: 2px double #D500F9; }
+.border-double-purple-s4{border: 2px double #AA00FF; }
+
+.border-double-deep-purple-10{border: 2px double #311B92;}
+.border-double-deep-purple-9{border: 2px double #4527A0; }
+.border-double-deep-purple-8{border: 2px double #512DA8; }
+.border-double-deep-purple-7{border: 2px double #5E35B1; }
+.border-double-deep-purple-6{border: 2px double #673AB7; }
+.border-double-deep-purple-5{border: 2px double #7E57C2; }
+.border-double-deep-purple-4{border: 2px double #9575CD; }
+.border-double-deep-purple-3{border: 2px double #B39DDB; }
+.border-double-deep-purple-2{border: 2px double #D1C4E9; }
+.border-double-deep-purple-1{border: 2px double #EDE7F6; }
+.border-double-deep-purple{border: 2px double #673AB7; }
+.border-double-deep-purple-s1{border: 2px double #B388FF; }
+.border-double-deep-purple-s2{border: 2px double #7C4DFF; }
+.border-double-deep-purple-s3{border: 2px double #651FFF; }
+.border-double-deep-purple-s4{border: 2px double #6200EA; }
+
+.border-double-indigo-10{border: 2px double #1A237E;}
+.border-double-indigo-9{border: 2px double #283593;}
+.border-double-indigo-8{border: 2px double #303F9F;}
+.border-double-indigo-7{border: 2px double #3949AB;}
+.border-double-indigo-6{border: 2px double #3F51B5;}
+.border-double-indigo-5{border: 2px double #5C6BC0;}
+.border-double-indigo-4{border: 2px double #7986CB;}
+.border-double-indigo-3{border: 2px double #9FA8DA;}
+.border-double-indigo-2{border: 2px double #C5CAE9;}
+.border-double-indigo-1{border: 2px double #E8EAF6;}
+.border-double-indigo{border: 2px double #3F51B5;}
+.border-double-indigo-s1{border: 2px double #8C9EFF; }
+.border-double-indigo-s2{border: 2px double #536DFE; }
+.border-double-indigo-s3{border: 2px double #3D5AFE; }
+.border-double-indigo-s4{border: 2px double #304FFE; }
+
+.border-double-blue-10{border: 2px double #0D47A1;}
+.border-double-blue-9{border: 2px double #1565C0; }
+.border-double-blue-8{border: 2px double #1976D2; }
+.border-double-blue-7{border: 2px double #1E88E5; }
+.border-double-blue-6{border: 2px double #2196F3; }
+.border-double-blue-5{border: 2px double #42A5F5; }
+.border-double-blue-4{border: 2px double #64B5F6; }
+.border-double-blue-3{border: 2px double #90CAF9; }
+.border-double-blue-2{border: 2px double #BBDEFB; }
+.border-double-blue-1{border: 2px double #E3F2FD; }
+.border-double-blue{border: 2px double #2196F3; }
+.border-double-blue-s1{border: 2px double #82B1FF; }
+.border-double-blue-s2{border: 2px double #448AFF; }
+.border-double-blue-s3{border: 2px double #2979FF; }
+.border-double-blue-s4{border: 2px double #2962FF; }
+
+.border-double-black{border: 2px double #000000; }
+.border-double-white{border: 2px double #FFFFFF;}
+
+
+.border-double-blue-grey-10{border: 2px double #263238;}
+.border-double-blue-grey-9{border: 2px double #37474F; }
+.border-double-blue-grey-8{border: 2px double #455A64; }
+.border-double-blue-grey-7{border: 2px double #546E7A; }
+.border-double-blue-grey-6{border: 2px double #607D8B; }
+.border-double-blue-grey-5{border: 2px double #78909C; }
+.border-double-blue-grey-4{border: 2px double #90A4AE; }
+.border-double-blue-grey-3{border: 2px double #B0BEC5; }
+.border-double-blue-grey-2{border: 2px double #CFD8DC; }
+.border-double-blue-grey-1{border: 2px double #ECEFF1; }
+.border-double-blue-grey{border: 2px double #607D8B;}
+
+
+.border-double-grey-10{border: 2px double #212121;}
+.border-double-grey-9{border: 2px double #424242; }
+.border-double-grey-8{border: 2px double #616161; }
+.border-double-grey-7{border: 2px double #757575; }
+.border-double-grey-6{border: 2px double #9E9E9E; }
+.border-double-grey-5{border: 2px double #BDBDBD; }
+.border-double-grey-4{border: 2px double #E0E0E0; }
+.border-double-grey-3{border: 2px double #EEEEEE; }
+.border-double-grey-2{border: 2px double #F5F5F5; }
+.border-double-grey-1{border: 2px double #FAFAFA; }
+.border-double-grey{border: 2px double #9E9E9E; }
+
+
+.border-double-brown-10{border: 2px double #3E2723;}
+.border-double-brown-9{border: 2px double #4E342E; }
+.border-double-brown-8{border: 2px double #5D4037; }
+.border-double-brown-7{border: 2px double #6D4C41; }
+.border-double-brown-6{border: 2px double #795548; }
+.border-double-brown-5{border: 2px double #8D6E63; }
+.border-double-brown-4{border: 2px double #A1887F; }
+.border-double-brown-3{border: 2px double #BCAAA4; }
+.border-double-brown-2{border: 2px double #D7CCC8; }
+.border-double-brown-1{border: 2px double #EFEBE9; }
+.border-double-brown{border: 2px double #795548; }
+
+.border-double-deep-orange-10{border: 2px double #BF360C; }
+.border-double-deep-orange-9{border: 2px double #D84315; }
+.border-double-deep-orange-8{border: 2px double #E64A19; }
+.border-double-deep-orange-7{border: 2px double #F4511E; }
+.border-double-deep-orange-6{border: 2px double #FF5722; }
+.border-double-deep-orange-5{border: 2px double #FF7043; }
+.border-double-deep-orange-4{border: 2px double #FF8A65; }
+.border-double-deep-orange-3{border: 2px double #FFAB91; }
+.border-double-deep-orange-2{border: 2px double #FFCCBC; }
+.border-double-deep-orange-1{border: 2px double #FBE9E7; }
+.border-double-deep-orange{border: 2px double #FF5722;}
+.border-double-deep-orange-s1{border: 2px double #FF9E80; }
+.border-double-deep-orange-s2{border: 2px double #FF6E40; }
+.border-double-deep-orange-s3{border: 2px double #FF3D00; }
+.border-double-deep-orange-s4{border: 2px double #DD2C00; }
+
+.border-double-light-blue-1{border: 2px double #E1F5FE ;}
+.border-double-light-blue-2{border: 2px double #B3E5FC;}
+.border-double-light-blue-3{border: 2px double #81D4FA;}
+.border-double-light-blue-4{border: 2px double #4FC3F7;}
+.border-double-light-blue-5{border: 2px double #29B6F6;}
+.border-double-light-blue-6{border: 2px double #03A9F4;}
+.border-double-light-blue-7{border: 2px double #039BE5;}
+.border-double-light-blue-8{border: 2px double #0288D1;}
+.border-double-light-blue-9{border: 2px double #0277BD;}
+.border-double-light-blue-10{border: 2px double #01579B;}
+.border-double-light-blue{border: 2px double #03A9F4;}
+.border-double-light-blue-s1{border: 2px double #80D8FF; }
+.border-double-light-blue-s2{border: 2px double #40C4FF; }
+.border-double-light-blue-s3{border: 2px double #00B0FF; }
+.border-double-light-blue-s4{border: 2px double #0091EA; }
+
+.border-double-cyan-1{border: 2px double #E0F7FA;}
+.border-double-cyan-2{border: 2px double #B2EBF2;}
+.border-double-cyan-3{border: 2px double #80DEEA;}
+.border-double-cyan-4{border: 2px double #4DD0E1;}
+.border-double-cyan-5{border: 2px double #26C6DA;}
+.border-double-cyan-6{border: 2px double #00BCD4;}
+.border-double-cyan-7{border: 2px double #00ACC1;}
+.border-double-cyan-8{border: 2px double #0097A7;}
+.border-double-cyan-9{border: 2px double #00838F;}
+.border-double-cyan-10{border: 2px double #006064;}
+.border-double-cyan{border: 2px double #00BCD4;}
+.border-double-cyan-s1{border: 2px double #84FFFF; }
+.border-double-cyan-s2{border: 2px double #18FFFF; }
+.border-double-cyan-s3{border: 2px double #00E5FF; }
+.border-double-cyan-s4{border: 2px double #00B8D4; }
+
+.border-double-teal-1{border: 2px double #E0F2F1;}
+.border-double-teal-2{border: 2px double #B2DFDB;}
+.border-double-teal-3{border: 2px double #80CBC4;}
+.border-double-teal-4{border: 2px double #4DB6AC;}
+.border-double-teal-5{border: 2px double #26A69A;}
+.border-double-teal-6{border: 2px double #009688;}
+.border-double-teal-7{border: 2px double #00897B;}
+.border-double-teal-8{border: 2px double #00796B;}
+.border-double-teal-9{border: 2px double #00695C;}
+.border-double-teal-10{border: 2px double #004D40;}
+.border-double-teal{border: 2px double #009688;}
+.border-double-teal-s1{border: 2px double #A7FFEB; }
+.border-double-teal-s2{border: 2px double #64FFDA; }
+.border-double-teal-s3{border: 2px double #1DE9B6; }
+.border-double-teal-s4{border: 2px double #00BFA5; }
+
+.border-double-green-1{border: 2px double #E8F5E9;}
+.border-double-green-2{border: 2px double #C8E6C9;}
+.border-double-green-3{border: 2px double #A5D6A7;}
+.border-double-green-4{border: 2px double #81C784;}
+.border-double-green-5{border: 2px double #66BB6A;}
+.border-double-green-6{border: 2px double #4CAF50;}
+.border-double-green-7{border: 2px double #43A047;}
+.border-double-green-8{border: 2px double #388E3C;}
+.border-double-green-9{border: 2px double #2E7D32;}
+.border-double-green-10{border: 2px double #1B5E20;}
+.border-double-green{border: 2px double #4CAF50;}
+.border-double-green-s1{border: 2px double #B9F6CA; }
+.border-double-green-s2{border: 2px double #69F0AE; }
+.border-double-green-s3{border: 2px double #00E676; }
+.border-double-green-s4{border: 2px double #00C853; }
+
+.border-double-light-green-1{border: 2px double #F1F8E9;}
+.border-double-light-green-2{border: 2px double #DCEDC8;}
+.border-double-light-green-3{border: 2px double #C5E1A5;}
+.border-double-light-green-4{border: 2px double #AED581;}
+.border-double-light-green-5{border: 2px double #9CCC65;}
+.border-double-light-green-6{border: 2px double #8BC34A;}
+.border-double-light-green-7{border: 2px double #7CB342;}
+.border-double-light-green-8{border: 2px double #689F38;}
+.border-double-light-green-9{border: 2px double #558B2F;}
+.border-double-light-green-10{border: 2px double #33691E;}
+.border-double-light-green{border: 2px double #8BC34A;}
+.border-double-light-green-s1{border: 2px double #CCFF90; }
+.border-double-light-green-s2{border: 2px double #B2FF59; }
+.border-double-light-green-s3{border: 2px double #76FF03; }
+.border-double-light-green-s4{border: 2px double #64DD17; }
+
+.border-double-lime-1{border: 2px double #F9FBE7;}
+.border-double-lime-2{border: 2px double #F0F4C3;}
+.border-double-lime-3{border: 2px double #E6EE9C;}
+.border-double-lime-4{border: 2px double #DCE775;}
+.border-double-lime-5{border: 2px double #D4E157;}
+.border-double-lime-6{border: 2px double #CDDC39;}
+.border-double-lime-7{border: 2px double #C0CA33;}
+.border-double-lime-8{border: 2px double #AFB42B;}
+.border-double-lime-9{border: 2px double #9E9D24;}
+.border-double-lime-10{border: 2px double #827717;}
+.border-double-lime{border: 2px double #CDDC39;}
+.border-double-lime-s1{border: 2px double #F4FF81; }
+.border-double-lime-s2{border: 2px double #EEFF41; }
+.border-double-lime-s3{border: 2px double #C6FF00; }
+.border-double-lime-s4{border: 2px double #AEEA00; }
+
+.border-double-yellow-1{border: 2px double #FFFDE7;}
+.border-double-yellow-2{border: 2px double #FFF9C4;}
+.border-double-yellow-3{border: 2px double #FFF59D;}
+.border-double-yellow-4{border: 2px double #FFF176;}
+.border-double-yellow-5{border: 2px double #FFEE58;}
+.border-double-yellow-6{border: 2px double #FFEB3B;}
+.border-double-yellow-7{border: 2px double #FDD835;}
+.border-double-yellow-8{border: 2px double #FBC02D;}
+.border-double-yellow-9{border: 2px double #F9A825;}
+.border-double-yellow-10{border: 2px double #F57F17;}
+.border-double-yellow{border: 2px double #FFEB3B;}
+.border-double-yellow-s1{border: 2px double #FFFF8D; }
+.border-double-yellow-s2{border: 2px double #FFFF00; }
+.border-double-yellow-s3{border: 2px double #FFEA00; }
+.border-double-yellow-s4{border: 2px double #FFD600; }
+
+.border-double-amber-1{border: 2px double #FFF8E1;}
+.border-double-amber-2{border: 2px double #FFECB3;}
+.border-double-amber-3{border: 2px double #FFE082;}
+.border-double-amber-4{border: 2px double #FFD54F;}
+.border-double-amber-5{border: 2px double #FFCA28;}
+.border-double-amber-6{border: 2px double #FFC107;}
+.border-double-amber-7{border: 2px double #FFB300;}
+.border-double-amber-8{border: 2px double #FFA000;}
+.border-double-amber-9{border: 2px double #FF8F00;}
+.border-double-amber-10{border: 2px double #FF6F00;}
+.border-double-amber{border: 2px double #FFC107;}
+.border-double-amber-s1{border: 2px double #FFE57F; }
+.border-double-amber-s2{border: 2px double #FFD740; }
+.border-double-amber-s3{border: 2px double #FFC400; }
+.border-double-amber-s4{border: 2px double #FFAB00; }
+
+
+.border-double-orange-1{border: 2px double #FFF3E0;}
+.border-double-orange-2{border: 2px double #FFE0B2;}
+.border-double-orange-3{border: 2px double #FFCC80;}
+.border-double-orange-4{border: 2px double #FFB74D;}
+.border-double-orange-5{border: 2px double #FFA726;}
+.border-double-orange-6{border: 2px double #FF9800;}
+.border-double-orange-7{border: 2px double #FB8C00;}
+.border-double-orange-8{border: 2px double #F57C00;}
+.border-double-orange-9{border: 2px double #EF6C00;}
+.border-double-orange-10{border: 2px double #E65100;}
+.border-double-orange{border: 2px double #FF9800;}
+.border-double-orange-s1{border: 2px double #FFD180; }
+.border-double-orange-s2{border: 2px double #FFAB40; }
+.border-double-orange-s3{border: 2px double #FF9100; }
+.border-double-orange-s4{border: 2px double #FF6D00; }
+
+.border-dashed-red-10{border:2px dashed #B71C1C;}
+.border-dashed-red-9{border: 2px dashed #C62828; }
+.border-dashed-red-8{border: 2px dashed #D32F2F; }
+.border-dashed-red-7{border: 2px dashed #E53935; }
+.border-dashed-red-6{border: 2px dashed #F44336;}
+.border-dashed-red-5{border: 2px dashed #EF5350; }
+.border-dashed-red-4{border: 2px dashed #E57373; }
+.border-dashed-red-3{border: 2px dashed #EF9A9A; }
+.border-dashed-red-2{border: 2px dashed #FFCDD2; }
+.border-dashed-red-1{border: 2px dashed #FFEBEE; }
+.border-dashed-red{border: 2px dashed #F44336; }
+.border-dashed-red-s1{border: 2px dashed #FF8A80; }
+.border-dashed-red-s2{border: 2px dashed #FF5252; }
+.border-dashed-red-s3{border: 2px dashed #FF1744;}
+.border-dashed-red-s4{border: 2px dashed #D50000;}
+
+.border-dashed-pink-10{border: 2px dashed #880E4F;}
+.border-dashed-pink-9{border: 2px dashed #AD1457; }
+.border-dashed-pink-8{border: 2px dashed #C2185B; }
+.border-dashed-pink-7{border: 2px dashed #D81B60; }
+.border-dashed-pink-6{border: 2px dashed #E91E63; }
+.border-dashed-pink-5{border: 2px dashed #EC407A; }
+.border-dashed-pink-4{border: 2px dashed #F06292; }
+.border-dashed-pink-3{border: 2px dashed #F48FB1; }
+.border-dashed-pink-2{border: 2px dashed #F8BBD0; }
+.border-dashed-pink-1{border: 2px dashed #FCE4EC; }
+.border-dashed-pink{border: 2px dashed #E91E63; }
+.border-dashed-pink-s1{border: 2px dashed #FF80AB; }
+.border-dashed-pink-s2{border: 2px dashed #FF4081; }
+.border-dashed-pink-s3{border: 2px dashed #F50057; }
+.border-dashed-pink-s4{border: 2px dashed #C51162; }
+
+.border-dashed-purple-10{border: 2px dashed #4A148C;}
+.border-dashed-purple-9{border: 2px dashed #6A1B9A; }
+.border-dashed-purple-8{border: 2px dashed #7B1FA2; }
+.border-dashed-purple-7{border: 2px dashed #8E24AA; }
+.border-dashed-purple-6{border: 2px dashed #9C27B0; }
+.border-dashed-purple-5{border: 2px dashed #AB47BC; }
+.border-dashed-purple-4{border: 2px dashed #BA68C8; }
+.border-dashed-purple-3{border: 2px dashed #CE93D8; }
+.border-dashed-purple-2{border: 2px dashed #E1BEE7; }
+.border-dashed-purple-1{border: 2px dashed #F3E5F5; }
+.border-dashed-purple{border: 2px dashed #9C27B0;}
+.border-dashed-purple-s1{border: 2px dashed #EA80FC; }
+.border-dashed-purple-s2{border: 2px dashed #E040FB; }
+.border-dashed-purple-s3{border: 2px dashed #D500F9; }
+.border-dashed-purple-s4{border: 2px dashed #AA00FF; }
+
+.border-dashed-deep-purple-10{border: 2px dashed #311B92;}
+.border-dashed-deep-purple-9{border: 2px dashed #4527A0; }
+.border-dashed-deep-purple-8{border: 2px dashed #512DA8; }
+.border-dashed-deep-purple-7{border: 2px dashed #5E35B1; }
+.border-dashed-deep-purple-6{border: 2px dashed #673AB7; }
+.border-dashed-deep-purple-5{border: 2px dashed #7E57C2; }
+.border-dashed-deep-purple-4{border: 2px dashed #9575CD; }
+.border-dashed-deep-purple-3{border: 2px dashed #B39DDB; }
+.border-dashed-deep-purple-2{border: 2px dashed #D1C4E9; }
+.border-dashed-deep-purple-1{border: 2px dashed #EDE7F6; }
+.border-dashed-deep-purple{border: 2px dashed #673AB7; }
+.border-dashed-deep-purple-s1{border: 2px dashed #B388FF; }
+.border-dashed-deep-purple-s2{border: 2px dashed #7C4DFF; }
+.border-dashed-deep-purple-s3{border: 2px dashed #651FFF; }
+.border-dashed-deep-purple-s4{border: 2px dashed #6200EA; }
+
+.border-dashed-indigo-10{border: 2px dashed #1A237E;}
+.border-dashed-indigo-9{border: 2px dashed #283593;}
+.border-dashed-indigo-8{border: 2px dashed #303F9F;}
+.border-dashed-indigo-7{border: 2px dashed #3949AB;}
+.border-dashed-indigo-6{border: 2px dashed #3F51B5;}
+.border-dashed-indigo-5{border: 2px dashed #5C6BC0;}
+.border-dashed-indigo-4{border: 2px dashed #7986CB;}
+.border-dashed-indigo-3{border: 2px dashed #9FA8DA;}
+.border-dashed-indigo-2{border: 2px dashed #C5CAE9;}
+.border-dashed-indigo-1{border: 2px dashed #E8EAF6;}
+.border-dashed-indigo{border: 2px dashed #3F51B5;}
+.border-dashed-indigo-s1{border: 2px dashed #8C9EFF; }
+.border-dashed-indigo-s2{border: 2px dashed #536DFE; }
+.border-dashed-indigo-s3{border: 2px dashed #3D5AFE; }
+.border-dashed-indigo-s4{border: 2px dashed #304FFE; }
+
+.border-dashed-blue-10{border: 2px dashed #0D47A1;}
+.border-dashed-blue-9{border: 2px dashed #1565C0; }
+.border-dashed-blue-8{border: 2px dashed #1976D2; }
+.border-dashed-blue-7{border: 2px dashed #1E88E5; }
+.border-dashed-blue-6{border: 2px dashed #2196F3; }
+.border-dashed-blue-5{border: 2px dashed #42A5F5; }
+.border-dashed-blue-4{border: 2px dashed #64B5F6; }
+.border-dashed-blue-3{border: 2px dashed #90CAF9; }
+.border-dashed-blue-2{border: 2px dashed #BBDEFB; }
+.border-dashed-blue-1{border: 2px dashed #E3F2FD; }
+.border-dashed-blue{border: 2px dashed #2196F3; }
+.border-dashed-blue-s1{border: 2px dashed #82B1FF; }
+.border-dashed-blue-s2{border: 2px dashed #448AFF; }
+.border-dashed-blue-s3{border: 2px dashed #2979FF; }
+.border-dashed-blue-s4{border: 2px dashed #2962FF; }
+
+.border-dashed-black{border: 2px dashed #000000; }
+.border-dashed-white{border: 2px dashed #FFFFFF;}
+
+
+.border-dashed-blue-grey-10{border: 2px dashed #263238;}
+.border-dashed-blue-grey-9{border: 2px dashed #37474F; }
+.border-dashed-blue-grey-8{border: 2px dashed #455A64; }
+.border-dashed-blue-grey-7{border: 2px dashed #546E7A; }
+.border-dashed-blue-grey-6{border: 2px dashed #607D8B; }
+.border-dashed-blue-grey-5{border: 2px dashed #78909C; }
+.border-dashed-blue-grey-4{border: 2px dashed #90A4AE; }
+.border-dashed-blue-grey-3{border: 2px dashed #B0BEC5; }
+.border-dashed-blue-grey-2{border: 2px dashed #CFD8DC; }
+.border-dashed-blue-grey-1{border: 2px dashed #ECEFF1; }
+.border-dashed-blue-grey{border: 2px dashed #607D8B;}
+
+
+.border-dashed-grey-10{border: 2px dashed #212121;}
+.border-dashed-grey-9{border: 2px dashed #424242; }
+.border-dashed-grey-8{border: 2px dashed #616161; }
+.border-dashed-grey-7{border: 2px dashed #757575; }
+.border-dashed-grey-6{border: 2px dashed #9E9E9E; }
+.border-dashed-grey-5{border: 2px dashed #BDBDBD; }
+.border-dashed-grey-4{border: 2px dashed #E0E0E0; }
+.border-dashed-grey-3{border: 2px dashed #EEEEEE; }
+.border-dashed-grey-2{border: 2px dashed #F5F5F5; }
+.border-dashed-grey-1{border: 2px dashed #FAFAFA; }
+.border-dashed-grey{border: 2px dashed #9E9E9E; }
+
+
+.border-dashed-brown-10{border: 2px dashed #3E2723;}
+.border-dashed-brown-9{border: 2px dashed #4E342E; }
+.border-dashed-brown-8{border: 2px dashed #5D4037; }
+.border-dashed-brown-7{border: 2px dashed #6D4C41; }
+.border-dashed-brown-6{border: 2px dashed #795548; }
+.border-dashed-brown-5{border: 2px dashed #8D6E63; }
+.border-dashed-brown-4{border: 2px dashed #A1887F; }
+.border-dashed-brown-3{border: 2px dashed #BCAAA4; }
+.border-dashed-brown-2{border: 2px dashed #D7CCC8; }
+.border-dashed-brown-1{border: 2px dashed #EFEBE9; }
+.border-dashed-brown{border: 2px dashed #795548; }
+
+.border-dashed-deep-orange-10{border: 2px dashed #BF360C; }
+.border-dashed-deep-orange-9{border: 2px dashed #D84315; }
+.border-dashed-deep-orange-8{border: 2px dashed #E64A19; }
+.border-dashed-deep-orange-7{border: 2px dashed #F4511E; }
+.border-dashed-deep-orange-6{border: 2px dashed #FF5722; }
+.border-dashed-deep-orange-5{border: 2px dashed #FF7043; }
+.border-dashed-deep-orange-4{border: 2px dashed #FF8A65; }
+.border-dashed-deep-orange-3{border: 2px dashed #FFAB91; }
+.border-dashed-deep-orange-2{border: 2px dashed #FFCCBC; }
+.border-dashed-deep-orange-1{border: 2px dashed #FBE9E7; }
+.border-dashed-deep-orange{border: 2px dashed #FF5722;}
+.border-dashed-deep-orange-s1{border: 2px dashed #FF9E80; }
+.border-dashed-deep-orange-s2{border: 2px dashed #FF6E40; }
+.border-dashed-deep-orange-s3{border: 2px dashed #FF3D00; }
+.border-dashed-deep-orange-s4{border: 2px dashed #DD2C00; }
+
+.border-dashed-light-blue-1{border: 2px dashed #E1F5FE ;}
+.border-dashed-light-blue-2{border: 2px dashed #B3E5FC;}
+.border-dashed-light-blue-3{border: 2px dashed #81D4FA;}
+.border-dashed-light-blue-4{border: 2px dashed #4FC3F7;}
+.border-dashed-light-blue-5{border: 2px dashed #29B6F6;}
+.border-dashed-light-blue-6{border: 2px dashed #03A9F4;}
+.border-dashed-light-blue-7{border: 2px dashed #039BE5;}
+.border-dashed-light-blue-8{border: 2px dashed #0288D1;}
+.border-dashed-light-blue-9{border: 2px dashed #0277BD;}
+.border-dashed-light-blue-10{border: 2px dashed #01579B;}
+.border-dashed-light-blue{border: 2px dashed #03A9F4;}
+.border-dashed-light-blue-s1{border: 2px dashed #80D8FF; }
+.border-dashed-light-blue-s2{border: 2px dashed #40C4FF; }
+.border-dashed-light-blue-s3{border: 2px dashed #00B0FF; }
+.border-dashed-light-blue-s4{border: 2px dashed #0091EA; }
+
+.border-dashed-cyan-1{border: 2px dashed #E0F7FA;}
+.border-dashed-cyan-2{border: 2px dashed #B2EBF2;}
+.border-dashed-cyan-3{border: 2px dashed #80DEEA;}
+.border-dashed-cyan-4{border: 2px dashed #4DD0E1;}
+.border-dashed-cyan-5{border: 2px dashed #26C6DA;}
+.border-dashed-cyan-6{border: 2px dashed #00BCD4;}
+.border-dashed-cyan-7{border: 2px dashed #00ACC1;}
+.border-dashed-cyan-8{border: 2px dashed #0097A7;}
+.border-dashed-cyan-9{border: 2px dashed #00838F;}
+.border-dashed-cyan-10{border: 2px dashed #006064;}
+.border-dashed-cyan{border: 2px dashed #00BCD4;}
+.border-dashed-cyan-s1{border: 2px dashed #84FFFF; }
+.border-dashed-cyan-s2{border: 2px dashed #18FFFF; }
+.border-dashed-cyan-s3{border: 2px dashed #00E5FF; }
+.border-dashed-cyan-s4{border: 2px dashed #00B8D4; }
+
+.border-dashed-teal-1{border: 2px dashed #E0F2F1;}
+.border-dashed-teal-2{border: 2px dashed #B2DFDB;}
+.border-dashed-teal-3{border: 2px dashed #80CBC4;}
+.border-dashed-teal-4{border: 2px dashed #4DB6AC;}
+.border-dashed-teal-5{border: 2px dashed #26A69A;}
+.border-dashed-teal-6{border: 2px dashed #009688;}
+.border-dashed-teal-7{border: 2px dashed #00897B;}
+.border-dashed-teal-8{border: 2px dashed #00796B;}
+.border-dashed-teal-9{border: 2px dashed #00695C;}
+.border-dashed-teal-10{border: 2px dashed #004D40;}
+.border-dashed-teal{border: 2px dashed #009688;}
+.border-dashed-teal-s1{border: 2px dashed #A7FFEB; }
+.border-dashed-teal-s2{border: 2px dashed #64FFDA; }
+.border-dashed-teal-s3{border: 2px dashed #1DE9B6; }
+.border-dashed-teal-s4{border: 2px dashed #00BFA5; }
+
+.border-dashed-green-1{border: 2px dashed #E8F5E9;}
+.border-dashed-green-2{border: 2px dashed #C8E6C9;}
+.border-dashed-green-3{border: 2px dashed #A5D6A7;}
+.border-dashed-green-4{border: 2px dashed #81C784;}
+.border-dashed-green-5{border: 2px dashed #66BB6A;}
+.border-dashed-green-6{border: 2px dashed #4CAF50;}
+.border-dashed-green-7{border: 2px dashed #43A047;}
+.border-dashed-green-8{border: 2px dashed #388E3C;}
+.border-dashed-green-9{border: 2px dashed #2E7D32;}
+.border-dashed-green-10{border: 2px dashed #1B5E20;}
+.border-dashed-green{border: 2px dashed #4CAF50;}
+.border-dashed-green-s1{border: 2px dashed #B9F6CA; }
+.border-dashed-green-s2{border: 2px dashed #69F0AE; }
+.border-dashed-green-s3{border: 2px dashed #00E676; }
+.border-dashed-green-s4{border: 2px dashed #00C853; }
+
+.border-dashed-light-green-1{border: 2px dashed #F1F8E9;}
+.border-dashed-light-green-2{border: 2px dashed #DCEDC8;}
+.border-dashed-light-green-3{border: 2px dashed #C5E1A5;}
+.border-dashed-light-green-4{border: 2px dashed #AED581;}
+.border-dashed-light-green-5{border: 2px dashed #9CCC65;}
+.border-dashed-light-green-6{border: 2px dashed #8BC34A;}
+.border-dashed-light-green-7{border: 2px dashed #7CB342;}
+.border-dashed-light-green-8{border: 2px dashed #689F38;}
+.border-dashed-light-green-9{border: 2px dashed #558B2F;}
+.border-dashed-light-green-10{border: 2px dashed #33691E;}
+.border-dashed-light-green{border: 2px dashed #8BC34A;}
+.border-dashed-light-green-s1{border: 2px dashed #CCFF90; }
+.border-dashed-light-green-s2{border: 2px dashed #B2FF59; }
+.border-dashed-light-green-s3{border: 2px dashed #76FF03; }
+.border-dashed-light-green-s4{border: 2px dashed #64DD17; }
+
+.border-dashed-lime-1{border: 2px dashed #F9FBE7;}
+.border-dashed-lime-2{border: 2px dashed #F0F4C3;}
+.border-dashed-lime-3{border: 2px dashed #E6EE9C;}
+.border-dashed-lime-4{border: 2px dashed #DCE775;}
+.border-dashed-lime-5{border: 2px dashed #D4E157;}
+.border-dashed-lime-6{border: 2px dashed #CDDC39;}
+.border-dashed-lime-7{border: 2px dashed #C0CA33;}
+.border-dashed-lime-8{border: 2px dashed #AFB42B;}
+.border-dashed-lime-9{border: 2px dashed #9E9D24;}
+.border-dashed-lime-10{border: 2px dashed #827717;}
+.border-dashed-lime{border: 2px dashed #CDDC39;}
+.border-dashed-lime-s1{border: 2px dashed #F4FF81; }
+.border-dashed-lime-s2{border: 2px dashed #EEFF41; }
+.border-dashed-lime-s3{border: 2px dashed #C6FF00; }
+.border-dashed-lime-s4{border: 2px dashed #AEEA00; }
+
+.border-dashed-yellow-1{border: 2px dashed #FFFDE7;}
+.border-dashed-yellow-2{border: 2px dashed #FFF9C4;}
+.border-dashed-yellow-3{border: 2px dashed #FFF59D;}
+.border-dashed-yellow-4{border: 2px dashed #FFF176;}
+.border-dashed-yellow-5{border: 2px dashed #FFEE58;}
+.border-dashed-yellow-6{border: 2px dashed #FFEB3B;}
+.border-dashed-yellow-7{border: 2px dashed #FDD835;}
+.border-dashed-yellow-8{border: 2px dashed #FBC02D;}
+.border-dashed-yellow-9{border: 2px dashed #F9A825;}
+.border-dashed-yellow-10{border: 2px dashed #F57F17;}
+.border-dashed-yellow{border: 2px dashed #FFEB3B;}
+.border-dashed-yellow-s1{border: 2px dashed #FFFF8D; }
+.border-dashed-yellow-s2{border: 2px dashed #FFFF00; }
+.border-dashed-yellow-s3{border: 2px dashed #FFEA00; }
+.border-dashed-yellow-s4{border: 2px dashed #FFD600; }
+
+.border-dashed-amber-1{border: 2px dashed #FFF8E1;}
+.border-dashed-amber-2{border: 2px dashed #FFECB3;}
+.border-dashed-amber-3{border: 2px dashed #FFE082;}
+.border-dashed-amber-4{border: 2px dashed #FFD54F;}
+.border-dashed-amber-5{border: 2px dashed #FFCA28;}
+.border-dashed-amber-6{border: 2px dashed #FFC107;}
+.border-dashed-amber-7{border: 2px dashed #FFB300;}
+.border-dashed-amber-8{border: 2px dashed #FFA000;}
+.border-dashed-amber-9{border: 2px dashed #FF8F00;}
+.border-dashed-amber-10{border: 2px dashed #FF6F00;}
+.border-dashed-amber{border: 2px dashed #FFC107;}
+.border-dashed-amber-s1{border: 2px dashed #FFE57F; }
+.border-dashed-amber-s2{border: 2px dashed #FFD740; }
+.border-dashed-amber-s3{border: 2px dashed #FFC400; }
+.border-dashed-amber-s4{border: 2px dashed #FFAB00; }
+
+
+.border-dashed-orange-1{border: 2px dashed #FFF3E0;}
+.border-dashed-orange-2{border: 2px dashed #FFE0B2;}
+.border-dashed-orange-3{border: 2px dashed #FFCC80;}
+.border-dashed-orange-4{border: 2px dashed #FFB74D;}
+.border-dashed-orange-5{border: 2px dashed #FFA726;}
+.border-dashed-orange-6{border: 2px dashed #FF9800;}
+.border-dashed-orange-7{border: 2px dashed #FB8C00;}
+.border-dashed-orange-8{border: 2px dashed #F57C00;}
+.border-dashed-orange-9{border: 2px dashed #EF6C00;}
+.border-dashed-orange-10{border: 2px dashed #E65100;}
+.border-dashed-orange{border: 2px dashed #FF9800;}
+.border-dashed-orange-s1{border: 2px dashed #FFD180; }
+.border-dashed-orange-s2{border: 2px dashed #FFAB40; }
+.border-dashed-orange-s3{border: 2px dashed #FF9100; }
+.border-dashed-orange-s4{border: 2px dashed #FF6D00; }
+
+.border-dotted-red-10{border:2px dotted #B71C1C;}
+.border-dotted-red-9{border: 2px dotted #C62828; }
+.border-dotted-red-8{border: 2px dotted #D32F2F; }
+.border-dotted-red-7{border: 2px dotted #E53935; }
+.border-dotted-red-6{border: 2px dotted #F44336;}
+.border-dotted-red-5{border: 2px dotted #EF5350; }
+.border-dotted-red-4{border: 2px dotted #E57373; }
+.border-dotted-red-3{border: 2px dotted #EF9A9A; }
+.border-dotted-red-2{border: 2px dotted #FFCDD2; }
+.border-dotted-red-1{border: 2px dotted #FFEBEE; }
+.border-dotted-red{border: 2px dotted #F44336; }
+.border-dotted-red-s1{border: 2px dotted #FF8A80; }
+.border-dotted-red-s2{border: 2px dotted #FF5252; }
+.border-dotted-red-s3{border: 2px dotted #FF1744;}
+.border-dotted-red-s4{border: 2px dotted #D50000;}
+
+.border-dotted-pink-10{border: 2px dotted #880E4F;}
+.border-dotted-pink-9{border: 2px dotted #AD1457; }
+.border-dotted-pink-8{border: 2px dotted #C2185B; }
+.border-dotted-pink-7{border: 2px dotted #D81B60; }
+.border-dotted-pink-6{border: 2px dotted #E91E63; }
+.border-dotted-pink-5{border: 2px dotted #EC407A; }
+.border-dotted-pink-4{border: 2px dotted #F06292; }
+.border-dotted-pink-3{border: 2px dotted #F48FB1; }
+.border-dotted-pink-2{border: 2px dotted #F8BBD0; }
+.border-dotted-pink-1{border: 2px dotted #FCE4EC; }
+.border-dotted-pink{border: 2px dotted #E91E63; }
+.border-dotted-pink-s1{border: 2px dotted #FF80AB; }
+.border-dotted-pink-s2{border: 2px dotted #FF4081; }
+.border-dotted-pink-s3{border: 2px dotted #F50057; }
+.border-dotted-pink-s4{border: 2px dotted #C51162; }
+
+.border-dotted-purple-10{border: 2px dotted #4A148C;}
+.border-dotted-purple-9{border: 2px dotted #6A1B9A; }
+.border-dotted-purple-8{border: 2px dotted #7B1FA2; }
+.border-dotted-purple-7{border: 2px dotted #8E24AA; }
+.border-dotted-purple-6{border: 2px dotted #9C27B0; }
+.border-dotted-purple-5{border: 2px dotted #AB47BC; }
+.border-dotted-purple-4{border: 2px dotted #BA68C8; }
+.border-dotted-purple-3{border: 2px dotted #CE93D8; }
+.border-dotted-purple-2{border: 2px dotted #E1BEE7; }
+.border-dotted-purple-1{border: 2px dotted #F3E5F5; }
+.border-dotted-purple{border: 2px dotted #9C27B0;}
+.border-dotted-purple-s1{border: 2px dotted #EA80FC; }
+.border-dotted-purple-s2{border: 2px dotted #E040FB; }
+.border-dotted-purple-s3{border: 2px dotted #D500F9; }
+.border-dotted-purple-s4{border: 2px dotted #AA00FF; }
+
+.border-dotted-deep-purple-10{border: 2px dotted #311B92;}
+.border-dotted-deep-purple-9{border: 2px dotted #4527A0; }
+.border-dotted-deep-purple-8{border: 2px dotted #512DA8; }
+.border-dotted-deep-purple-7{border: 2px dotted #5E35B1; }
+.border-dotted-deep-purple-6{border: 2px dotted #673AB7; }
+.border-dotted-deep-purple-5{border: 2px dotted #7E57C2; }
+.border-dotted-deep-purple-4{border: 2px dotted #9575CD; }
+.border-dotted-deep-purple-3{border: 2px dotted #B39DDB; }
+.border-dotted-deep-purple-2{border: 2px dotted #D1C4E9; }
+.border-dotted-deep-purple-1{border: 2px dotted #EDE7F6; }
+.border-dotted-deep-purple{border: 2px dotted #673AB7; }
+.border-dotted-deep-purple-s1{border: 2px dotted #B388FF; }
+.border-dotted-deep-purple-s2{border: 2px dotted #7C4DFF; }
+.border-dotted-deep-purple-s3{border: 2px dotted #651FFF; }
+.border-dotted-deep-purple-s4{border: 2px dotted #6200EA; }
+
+.border-dotted-indigo-10{border: 2px dotted #1A237E;}
+.border-dotted-indigo-9{border: 2px dotted #283593;}
+.border-dotted-indigo-8{border: 2px dotted #303F9F;}
+.border-dotted-indigo-7{border: 2px dotted #3949AB;}
+.border-dotted-indigo-6{border: 2px dotted #3F51B5;}
+.border-dotted-indigo-5{border: 2px dotted #5C6BC0;}
+.border-dotted-indigo-4{border: 2px dotted #7986CB;}
+.border-dotted-indigo-3{border: 2px dotted #9FA8DA;}
+.border-dotted-indigo-2{border: 2px dotted #C5CAE9;}
+.border-dotted-indigo-1{border: 2px dotted #E8EAF6;}
+.border-dotted-indigo{border: 2px dotted #3F51B5;}
+.border-dotted-indigo-s1{border: 2px dotted #8C9EFF; }
+.border-dotted-indigo-s2{border: 2px dotted #536DFE; }
+.border-dotted-indigo-s3{border: 2px dotted #3D5AFE; }
+.border-dotted-indigo-s4{border: 2px dotted #304FFE; }
+
+.border-dotted-blue-10{border: 2px dotted #0D47A1;}
+.border-dotted-blue-9{border: 2px dotted #1565C0; }
+.border-dotted-blue-8{border: 2px dotted #1976D2; }
+.border-dotted-blue-7{border: 2px dotted #1E88E5; }
+.border-dotted-blue-6{border: 2px dotted #2196F3; }
+.border-dotted-blue-5{border: 2px dotted #42A5F5; }
+.border-dotted-blue-4{border: 2px dotted #64B5F6; }
+.border-dotted-blue-3{border: 2px dotted #90CAF9; }
+.border-dotted-blue-2{border: 2px dotted #BBDEFB; }
+.border-dotted-blue-1{border: 2px dotted #E3F2FD; }
+.border-dotted-blue{border: 2px dotted #2196F3; }
+.border-dotted-blue-s1{border: 2px dotted #82B1FF; }
+.border-dotted-blue-s2{border: 2px dotted #448AFF; }
+.border-dotted-blue-s3{border: 2px dotted #2979FF; }
+.border-dotted-blue-s4{border: 2px dotted #2962FF; }
+
+.border-dotted-black{border: 2px dotted #000000; }
+.border-dotted-white{border: 2px dotted #FFFFFF;}
+
+
+.border-dotted-blue-grey-10{border: 2px dotted #263238;}
+.border-dotted-blue-grey-9{border: 2px dotted #37474F; }
+.border-dotted-blue-grey-8{border: 2px dotted #455A64; }
+.border-dotted-blue-grey-7{border: 2px dotted #546E7A; }
+.border-dotted-blue-grey-6{border: 2px dotted #607D8B; }
+.border-dotted-blue-grey-5{border: 2px dotted #78909C; }
+.border-dotted-blue-grey-4{border: 2px dotted #90A4AE; }
+.border-dotted-blue-grey-3{border: 2px dotted #B0BEC5; }
+.border-dotted-blue-grey-2{border: 2px dotted #CFD8DC; }
+.border-dotted-blue-grey-1{border: 2px dotted #ECEFF1; }
+.border-dotted-blue-grey{border: 2px dotted #607D8B;}
+
+
+.border-dotted-grey-10{border: 2px dotted #212121;}
+.border-dotted-grey-9{border: 2px dotted #424242; }
+.border-dotted-grey-8{border: 2px dotted #616161; }
+.border-dotted-grey-7{border: 2px dotted #757575; }
+.border-dotted-grey-6{border: 2px dotted #9E9E9E; }
+.border-dotted-grey-5{border: 2px dotted #BDBDBD; }
+.border-dotted-grey-4{border: 2px dotted #E0E0E0; }
+.border-dotted-grey-3{border: 2px dotted #EEEEEE; }
+.border-dotted-grey-2{border: 2px dotted #F5F5F5; }
+.border-dotted-grey-1{border: 2px dotted #FAFAFA; }
+.border-dotted-grey{border: 2px dotted #9E9E9E; }
+
+
+.border-dotted-brown-10{border: 2px dotted #3E2723;}
+.border-dotted-brown-9{border: 2px dotted #4E342E; }
+.border-dotted-brown-8{border: 2px dotted #5D4037; }
+.border-dotted-brown-7{border: 2px dotted #6D4C41; }
+.border-dotted-brown-6{border: 2px dotted #795548; }
+.border-dotted-brown-5{border: 2px dotted #8D6E63; }
+.border-dotted-brown-4{border: 2px dotted #A1887F; }
+.border-dotted-brown-3{border: 2px dotted #BCAAA4; }
+.border-dotted-brown-2{border: 2px dotted #D7CCC8; }
+.border-dotted-brown-1{border: 2px dotted #EFEBE9; }
+.border-dotted-brown{border: 2px dotted #795548; }
+
+.border-dotted-deep-orange-10{border: 2px dotted #BF360C; }
+.border-dotted-deep-orange-9{border: 2px dotted #D84315; }
+.border-dotted-deep-orange-8{border: 2px dotted #E64A19; }
+.border-dotted-deep-orange-7{border: 2px dotted #F4511E; }
+.border-dotted-deep-orange-6{border: 2px dotted #FF5722; }
+.border-dotted-deep-orange-5{border: 2px dotted #FF7043; }
+.border-dotted-deep-orange-4{border: 2px dotted #FF8A65; }
+.border-dotted-deep-orange-3{border: 2px dotted #FFAB91; }
+.border-dotted-deep-orange-2{border: 2px dotted #FFCCBC; }
+.border-dotted-deep-orange-1{border: 2px dotted #FBE9E7; }
+.border-dotted-deep-orange{border: 2px dotted #FF5722;}
+.border-dotted-deep-orange-s1{border: 2px dotted #FF9E80; }
+.border-dotted-deep-orange-s2{border: 2px dotted #FF6E40; }
+.border-dotted-deep-orange-s3{border: 2px dotted #FF3D00; }
+.border-dotted-deep-orange-s4{border: 2px dotted #DD2C00; }
+
+.border-dotted-light-blue-1{border: 2px dotted #E1F5FE ;}
+.border-dotted-light-blue-2{border: 2px dotted #B3E5FC;}
+.border-dotted-light-blue-3{border: 2px dotted #81D4FA;}
+.border-dotted-light-blue-4{border: 2px dotted #4FC3F7;}
+.border-dotted-light-blue-5{border: 2px dotted #29B6F6;}
+.border-dotted-light-blue-6{border: 2px dotted #03A9F4;}
+.border-dotted-light-blue-7{border: 2px dotted #039BE5;}
+.border-dotted-light-blue-8{border: 2px dotted #0288D1;}
+.border-dotted-light-blue-9{border: 2px dotted #0277BD;}
+.border-dotted-light-blue-10{border: 2px dotted #01579B;}
+.border-dotted-light-blue{border: 2px dotted #03A9F4;}
+.border-dotted-light-blue-s1{border: 2px dotted #80D8FF; }
+.border-dotted-light-blue-s2{border: 2px dotted #40C4FF; }
+.border-dotted-light-blue-s3{border: 2px dotted #00B0FF; }
+.border-dotted-light-blue-s4{border: 2px dotted #0091EA; }
+
+.border-dotted-cyan-1{border: 2px dotted #E0F7FA;}
+.border-dotted-cyan-2{border: 2px dotted #B2EBF2;}
+.border-dotted-cyan-3{border: 2px dotted #80DEEA;}
+.border-dotted-cyan-4{border: 2px dotted #4DD0E1;}
+.border-dotted-cyan-5{border: 2px dotted #26C6DA;}
+.border-dotted-cyan-6{border: 2px dotted #00BCD4;}
+.border-dotted-cyan-7{border: 2px dotted #00ACC1;}
+.border-dotted-cyan-8{border: 2px dotted #0097A7;}
+.border-dotted-cyan-9{border: 2px dotted #00838F;}
+.border-dotted-cyan-10{border: 2px dotted #006064;}
+.border-dotted-cyan{border: 2px dotted #00BCD4;}
+.border-dotted-cyan-s1{border: 2px dotted #84FFFF; }
+.border-dotted-cyan-s2{border: 2px dotted #18FFFF; }
+.border-dotted-cyan-s3{border: 2px dotted #00E5FF; }
+.border-dotted-cyan-s4{border: 2px dotted #00B8D4; }
+
+.border-dotted-teal-1{border: 2px dotted #E0F2F1;}
+.border-dotted-teal-2{border: 2px dotted #B2DFDB;}
+.border-dotted-teal-3{border: 2px dotted #80CBC4;}
+.border-dotted-teal-4{border: 2px dotted #4DB6AC;}
+.border-dotted-teal-5{border: 2px dotted #26A69A;}
+.border-dotted-teal-6{border: 2px dotted #009688;}
+.border-dotted-teal-7{border: 2px dotted #00897B;}
+.border-dotted-teal-8{border: 2px dotted #00796B;}
+.border-dotted-teal-9{border: 2px dotted #00695C;}
+.border-dotted-teal-10{border: 2px dotted #004D40;}
+.border-dotted-teal{border: 2px dotted #009688;}
+.border-dotted-teal-s1{border: 2px dotted #A7FFEB; }
+.border-dotted-teal-s2{border: 2px dotted #64FFDA; }
+.border-dotted-teal-s3{border: 2px dotted #1DE9B6; }
+.border-dotted-teal-s4{border: 2px dotted #00BFA5; }
+
+.border-dotted-green-1{border: 2px dotted #E8F5E9;}
+.border-dotted-green-2{border: 2px dotted #C8E6C9;}
+.border-dotted-green-3{border: 2px dotted #A5D6A7;}
+.border-dotted-green-4{border: 2px dotted #81C784;}
+.border-dotted-green-5{border: 2px dotted #66BB6A;}
+.border-dotted-green-6{border: 2px dotted #4CAF50;}
+.border-dotted-green-7{border: 2px dotted #43A047;}
+.border-dotted-green-8{border: 2px dotted #388E3C;}
+.border-dotted-green-9{border: 2px dotted #2E7D32;}
+.border-dotted-green-10{border: 2px dotted #1B5E20;}
+.border-dotted-green{border: 2px dotted #4CAF50;}
+.border-dotted-green-s1{border: 2px dotted #B9F6CA; }
+.border-dotted-green-s2{border: 2px dotted #69F0AE; }
+.border-dotted-green-s3{border: 2px dotted #00E676; }
+.border-dotted-green-s4{border: 2px dotted #00C853; }
+
+.border-dotted-light-green-1{border: 2px dotted #F1F8E9;}
+.border-dotted-light-green-2{border: 2px dotted #DCEDC8;}
+.border-dotted-light-green-3{border: 2px dotted #C5E1A5;}
+.border-dotted-light-green-4{border: 2px dotted #AED581;}
+.border-dotted-light-green-5{border: 2px dotted #9CCC65;}
+.border-dotted-light-green-6{border: 2px dotted #8BC34A;}
+.border-dotted-light-green-7{border: 2px dotted #7CB342;}
+.border-dotted-light-green-8{border: 2px dotted #689F38;}
+.border-dotted-light-green-9{border: 2px dotted #558B2F;}
+.border-dotted-light-green-10{border: 2px dotted #33691E;}
+.border-dotted-light-green{border: 2px dotted #8BC34A;}
+.border-dotted-light-green-s1{border: 2px dotted #CCFF90; }
+.border-dotted-light-green-s2{border: 2px dotted #B2FF59; }
+.border-dotted-light-green-s3{border: 2px dotted #76FF03; }
+.border-dotted-light-green-s4{border: 2px dotted #64DD17; }
+
+.border-dotted-lime-1{border: 2px dotted #F9FBE7;}
+.border-dotted-lime-2{border: 2px dotted #F0F4C3;}
+.border-dotted-lime-3{border: 2px dotted #E6EE9C;}
+.border-dotted-lime-4{border: 2px dotted #DCE775;}
+.border-dotted-lime-5{border: 2px dotted #D4E157;}
+.border-dotted-lime-6{border: 2px dotted #CDDC39;}
+.border-dotted-lime-7{border: 2px dotted #C0CA33;}
+.border-dotted-lime-8{border: 2px dotted #AFB42B;}
+.border-dotted-lime-9{border: 2px dotted #9E9D24;}
+.border-dotted-lime-10{border: 2px dotted #827717;}
+.border-dotted-lime{border: 2px dotted #CDDC39;}
+.border-dotted-lime-s1{border: 2px dotted #F4FF81; }
+.border-dotted-lime-s2{border: 2px dotted #EEFF41; }
+.border-dotted-lime-s3{border: 2px dotted #C6FF00; }
+.border-dotted-lime-s4{border: 2px dotted #AEEA00; }
+
+.border-dotted-yellow-1{border: 2px dotted #FFFDE7;}
+.border-dotted-yellow-2{border: 2px dotted #FFF9C4;}
+.border-dotted-yellow-3{border: 2px dotted #FFF59D;}
+.border-dotted-yellow-4{border: 2px dotted #FFF176;}
+.border-dotted-yellow-5{border: 2px dotted #FFEE58;}
+.border-dotted-yellow-6{border: 2px dotted #FFEB3B;}
+.border-dotted-yellow-7{border: 2px dotted #FDD835;}
+.border-dotted-yellow-8{border: 2px dotted #FBC02D;}
+.border-dotted-yellow-9{border: 2px dotted #F9A825;}
+.border-dotted-yellow-10{border: 2px dotted #F57F17;}
+.border-dotted-yellow{border: 2px dotted #FFEB3B;}
+.border-dotted-yellow-s1{border: 2px dotted #FFFF8D; }
+.border-dotted-yellow-s2{border: 2px dotted #FFFF00; }
+.border-dotted-yellow-s3{border: 2px dotted #FFEA00; }
+.border-dotted-yellow-s4{border: 2px dotted #FFD600; }
+
+.border-dotted-amber-1{border: 2px dotted #FFF8E1;}
+.border-dotted-amber-2{border: 2px dotted #FFECB3;}
+.border-dotted-amber-3{border: 2px dotted #FFE082;}
+.border-dotted-amber-4{border: 2px dotted #FFD54F;}
+.border-dotted-amber-5{border: 2px dotted #FFCA28;}
+.border-dotted-amber-6{border: 2px dotted #FFC107;}
+.border-dotted-amber-7{border: 2px dotted #FFB300;}
+.border-dotted-amber-8{border: 2px dotted #FFA000;}
+.border-dotted-amber-9{border: 2px dotted #FF8F00;}
+.border-dotted-amber-10{border: 2px dotted #FF6F00;}
+.border-dotted-amber{border: 2px dotted #FFC107;}
+.border-dotted-amber-s1{border: 2px dotted #FFE57F; }
+.border-dotted-amber-s2{border: 2px dotted #FFD740; }
+.border-dotted-amber-s3{border: 2px dotted #FFC400; }
+.border-dotted-amber-s4{border: 2px dotted #FFAB00; }
+
+.border-dotted-orange-1{border: 2px dotted #FFF3E0;}
+.border-dotted-orange-2{border: 2px dotted #FFE0B2;}
+.border-dotted-orange-3{border: 2px dotted #FFCC80;}
+.border-dotted-orange-4{border: 2px dotted #FFB74D;}
+.border-dotted-orange-5{border: 2px dotted #FFA726;}
+.border-dotted-orange-6{border: 2px dotted #FF9800;}
+.border-dotted-orange-7{border: 2px dotted #FB8C00;}
+.border-dotted-orange-8{border: 2px dotted #F57C00;}
+.border-dotted-orange-9{border: 2px dotted #EF6C00;}
+.border-dotted-orange-10{border: 2px dotted #E65100;}
+.border-dotted-orange{border: 2px dotted #FF9800;}
+.border-dotted-orange-s1{border: 2px dotted #FFD180; }
+.border-dotted-orange-s2{border: 2px dotted #FFAB40; }
+.border-dotted-orange-s3{border: 2px dotted #FF9100; }
+.border-dotted-orange-s4{border: 2px dotted #FF6D00; }

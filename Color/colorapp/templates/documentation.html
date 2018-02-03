@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Color.css | Documentation | Web Design Framework | </title>
+    <meta http-equiv="content-type" content="text/html"; charset="utf-8">
+    <meta name="title" content="Color.css | A Web Color Framework | Color | Material Design">
+    <meta name="description" content="A Web Framework To Design And Color Websites Easily">
+    <meta name="keywords" content="Colors,colors,color,gradients, web design, web developement, shades, color types, material design, web framework, easy, modern, latest">
+    <meta name="robots" content="index,follow">
+    <meta name="language" content="English">
+    <link rel="stylesheet" href="{% static 'color.css' %}">
+    <link rel="stylesheet" href="{% static 'w3.css' %}">
+    <link rel="stylesheet" href="{% static 'theme.css' %}">
+    <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet">
+    <script type="text/javascript" src="{% static 'color.js' %}"></script>
+  </head>
+  <body>
+
+    <div class="w3-container w3-blue w3-card-4">
+      <h1>Color.css</h1>
+
+    </div>
+
+
+    <div id="card" class="w3-container w3-card-4 w3-padding w3-margin ">
+
+      <div class=" w3-panel w3-blue">
+        <h2>Step 1:</h2>
+        <p>Download color.css file from our Website and Extract It!</p>
+        <img src="{% static 'download.jpeg' %}">
+      </div>
+
+      <div class="w3-panel w3-blue">
+        <h2>Step 2:</h2>
+        <p>Add the file in your project directory.</p>
+        <img src="{% static 'tree.jpeg' %}" alt="">
+      </div>
+
+      <div class="w3-panel w3-blue">
+        <h2>Step 3:</h2>
+        <p>Link it!</p>
+        <img src="{% static 'link.jpeg' %}" alt="">
+      </div>
+
+      <div class="w3-panel w3-blue">
+        <h2>Step 4:</h2>
+        <p>Use class attribute to apply color</p>
+        <img src="{% static 'attr.jpeg' %}" alt="">
+      </div>
+
+      <div class="w3-panel w3-blue">
+        <h2>Step 5:</h2>
+        <p>1 is lightest shade and 10 is the darkest shade </p><br>
+        <p>bg-red-1 will apply color to the background</p><br>
+        <p>text-red-1 will apply red color to the text and </p><br>
+        <p>border-red-1 will apply 2px solid background-color </p><br>
+        <p>For Dotted border use border-dotted-red-1 to apply dotted border.</p><br>
+        <p>For color guide Click Below <a class="w3-tag w3-red" href="/guide"><h6>Color Guide</h6></a></p>
+      </div>
+
+    </div>
+
+  </body>
+</html>
